@@ -32,3 +32,9 @@ remark.macros.colorbox = function (x, y, boxWidth, boxType) {
 remark.macros.vspace = function (size) {
   return '<div style="height: ' + size + 'px;"><br></div>';
 };
+
+
+remark.macros.video = function (color) {
+   var url = this;
+   return '<div class="video" style="border: 4px solid ' + color + '"><iframe src="' + url + '"></iframe></div>';
+}
