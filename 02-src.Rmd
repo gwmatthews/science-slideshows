@@ -1,6 +1,6 @@
 class: middle center fractal
 
-# *What is science?*
+# *What is science anyway?*
 
 ### *method, knowledge, attitude*
 
@@ -43,7 +43,9 @@ class: middle center fractal
 
 ---
 
-![:captionpic RAM chips, 70%, #ccc;](img/01/RAM.jpg)
+
+---
+![:video](https://youtu.be/0fKBhvDjuy0)
 
 ---
 layout: false
