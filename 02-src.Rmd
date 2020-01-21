@@ -42,7 +42,7 @@ class: middle center fractal
 - Repeat with more observations, other explanations, new consequences, adjusting as consequences fail to appear.
 
 ---
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0fKBhvDjuy0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 ![:video #333;](https://youtu.be/0fKBhvDjuy0)
