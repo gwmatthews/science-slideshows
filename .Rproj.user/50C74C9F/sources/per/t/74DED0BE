@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579475654279.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2429620435",
+    "id" : "74DED0BE",
+    "lastKnownWriteTime" : 1579618752,
+    "last_content_update" : 1579618752529,
+    "path" : "~/Documents/github/slides/science-slideshows/01-src.Rmd",
+    "project_path" : "01-src.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
