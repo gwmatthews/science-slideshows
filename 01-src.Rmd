@@ -126,7 +126,8 @@ layout: false
 class: middle center
 
 .embedcard[
-<a class="embedly-card" href="https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/">Have Smartphones Destroyed a Generation?</a><script async="" src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<blockquote class="embedly-card"><h4><a href="https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/">Have Smartphones Destroyed a Generation?</a></h4><p>More comfortable online than out partying, post-Millennials are safer, physically, than adolescents have ever been. But they're on the brink of a mental-health crisis. One day last summer, around noon, I called Athena, a 13-year-old who lives in Houston, Texas. She answered her phone-she's had an iPhone since she was 11-sounding as if she'd just woken up.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 ]
 
 ---
