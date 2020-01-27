@@ -15,7 +15,7 @@ HANDOUT:=$(patsubst %-handout.tex, %-handout.pdf, $(TEX))
 HANDOUT:=$(addprefix pdf/, $(HANDOUT))
 
 .PHONY : all
-all : html pdf print handout cleanup
+all : html pdf cleanup
 
 .PHONY : test
 test :
