@@ -247,6 +247,16 @@ body {
   line-height: 1.5;
 }
 
+.large-text {
+  font-size: large;
+  line-height: 1.5;
+}
+
+.xlarge-text {
+  font-size: x-large;
+  line-height: 1.5;
+}
+
 .topcap {
   color: var(--text-color-3);
   font-size: x-large;

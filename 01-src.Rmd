@@ -4,7 +4,6 @@ class: middle center
 
 ![:scale 70%, #ddd;](img/01/question.jpg)
 
-
 .small-text[George Matthews, Plymouth State University
 
 *2020*]
@@ -13,7 +12,7 @@ class: middle center
 class: center
 layout: true
 
-### What would life be like...
+### *What would life be like...*
 
 ---
 
@@ -23,23 +22,22 @@ layout: true
 
 ![:scale 70%, #ddd;](img/01/phone-bmartinseattle.jpg)
 
-### ...without cell phones?
+### *...without cell phones?*
 
 ---
-layout: true
-### *philo-sophia*
+layout: false
 
----
+### *Question everything?*
 
 .left-column[
 
-<br><br>
+<br><br><br>
 
 ![:portrait Socrates, 470-399 BCE, 80%](img/01/socrates.jpg)
 
 ]
 
-<br>
+<br><br>
 
 .middletext[
 
@@ -54,86 +52,165 @@ layout: true
 
 - One of the founders of Western philosophy, Socrates spent his life encouraging others to critically examine their fundamental values and assumptions.
 
-]
+- He was executed on charges of "corrupting the youth."
 
-.right-list[
-
-- He was executed for "corrupting the youth."
+- But really others just found his relentless questioning annoying and threatening.
 
 ]
 
-.right-list[
-
-.question[
-
-Why did people find Socrates' questions so threatening that they killed an old man who would likely soon pass away anyway?
-
-]
-
-]
 ---
+### *Philosophy and skepticism*
 
-"The love of (*philos*) wisdom (*sophia*)"
+*Philo-sophia*: "the love of wisdom"
  
-- Seeks understanding of the nature of reality and the significance of our lives by critical examination of our **deepest and most general beliefs**.
+- Philosophy seeks understanding of the nature of reality and the significance of our lives by critically questioning our **deepest and most general beliefs**.
 
-- Draws out basic assumptions, asking questions with **the wonder of a child**.
+- It draws out basic assumptions, asking questions with **the wonder of a child**.
 
-- Subjects them to careful analysis with **the precision of a lawyer**.
+- It subjects all ideas and claims to careful analysis with **the precision of a lawyer**.
 
 ![:vspace 30]()
 
 .question[
 
-What is the difference between wisdom and knowledge? Can one know things without being wise or the other way around?
+If everything is open to question how can we know anything at all?
+
+Is **wisdom** just knowing how little you know?
 
 ]
-
----
-
-.caution[
-
-.red[Science] also seeks to understand reality, but it differs from philosophy in its method of evaluating its claims.
-
-]
-
-<br>
-
-- If you are wrong in science **your predictions fail**, or you accidentally blow up the lab.
-
-- If you are wrong in philosophy, **your principles and most general beliefs conflict with each other** and so your mind is at odds with itself.
-
-- Failure to clarify one's life philosophically is to lead an "unexamined life." 
-
----
-
-.caution[
-
-.red[Religion] addresses the significance of our lives, but it differs from philosophy in how it proceeds.
-
-]
-
-<br>
-
-- Religion emerges from the spontaneous ways we make meaning in our lives, placing us at the center of life's drama.
-
-- Philosophy seeks clarification and justification and asks how we might find meaning, even in a world where we are not at the center of things.
-
-- Philosophy trusts our ability to figure things out, while religion often appeals to faith and human limitations.
 
 ---
 layout: false
-class: middle center
 
-.embedcard[
-<blockquote class="embedly-card"><h4><a href="https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/">Have Smartphones Destroyed a Generation?</a></h4><p>More comfortable online than out partying, post-Millennials are safer, physically, than adolescents have ever been. But they're on the brink of a mental-health crisis. One day last summer, around noon, I called Athena, a 13-year-old who lives in Houston, Texas. She answered her phone-she's had an iPhone since she was 11-sounding as if she'd just woken up.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+### ![:jump *Have smart phones destroyed a generation?*](http://www.6worlds.net/science-blog/science-or-superstition/part-1/what-is-science/debate-have-smartphones-destroyed-a-generation/)
+
+.narrow-text[
+.question[
+
+How can we even tell?
+
+Should we be skeptical of the claim that they have or not?
+
+What is the difference between philosophical and scientific skepticism?
+
 ]
+]
+
+---
+### *Organized skepticism*
+
+.example[.red[Science keeps skepticism contained with:]
+
+- **Rejection of global doubts**: don't have such an open mind that your brains fall out.
+
+- **Reliance on public evidence:** many eyes make all problems easy.
+
+- **Trusting strength in numbers:** if it can't be repeated it can't be trusted.
+
+- **Structured testing:** make risky predictions and be willing to admit failure.
+
+- **Resistance to theory:** let the the big picture emerge on its own.]
 
 ---
 
 layout: false
-## *Philosophical questions*
+### *Philosophical questions*
+
+.narrow-text[
+.question[
+
+.xlarge-text[ .red[What is reality like?] ]
+
+- Metaphysics or Ontology
+
+.xlarge-text[ .red[What can I know?] ]
+
+- Epistemology or Theory of Knowledge
+
+.xlarge-text[ .red[What should I do?] ]
+
+- Axiology or Value Theory
+
+]
+]
+---
+### *What is reality like?*
+
+.leftbar[
+<br><br><br>
+![:portrait Baron D'Holbach, 1723-1789, 80%](img/01/holbach.jpg)
+]
+
+.middletext[
+
+<br><br>
+
+.left-blurb[
+
+"Do we have free will or are we just cogs in a vast machine?"
+
+]
+
+]
+
+.right-list[
+
+- Philosophical questions are often much more general than questions we normally encounter.
+
+]
+
+.right-list[
+
+- Science seeks answers to particular questions about the regularities in the world of our experience and shrinks away from such general questions as this.
+
+]
+
+.right-list[
+
+- This is a question in the sub-field of philosophy called .red[metaphysics] or .red[ontology] which seeks an account of the basic nature of reality.
+
+]
+
+---
+### *What can I know?*
+
+.leftbar[
+<br><br><br>
+![:portrait Rene Descartes, 1596-1650, 80%](img/01/descartes.jpg)
+]
+
+.middletext[
+
+<br><br>
+
+.left-blurb[
+
+"What can I know with any degree of certainty, when my senses so often mislead me?"
+
+]
+
+]
+
+.right-list[
+
+- Descartes asked this question at the beginning of the Scientific Revolution when old "certainties" were revealed to be based on false assumptions.
+
+]
+
+.right-list[
+
+- Answering it requires clarifying the nature and limitations of knowledge.
+
+]
+
+.right-list[
+
+- This is a question in the sub-field of philosophy called .red[epistemology] or .red[theory of knowledge].
+
+]
+
+---
+### *What should I do?*
 
 .leftbar[
 <br><br><br>
@@ -173,106 +250,28 @@ layout: false
 ---
 layout: false
 
-## *Philosophical questions*
-
-.leftbar[
-<br><br><br>
-![:portrait Rene Descartes, 1596-1650, 80%](img/01/descartes.jpg)
-]
-
-.middletext[
-
-<br><br>
-
-.left-blurb[
-
-"What can I know with any degree of certainty, when my senses so often mislead me?"
-
-]
-
-]
-
-.right-list[
-
-- Descartes asked this question at the beginning of the Scientific Revolution when old "certainties" were revealed to be based on false assumptions.
-
-]
-
-.right-list[
-
-- Answering it requires clarifying the nature and limitations of knowledge.
-
-]
-
-.right-list[
-
-- This is a question in the sub-field of philosophy called .red[epistemology] or .red[theory of knowledge].
-
-]
-
----
-layout: false
-## *Philosophical questions*
-
-.leftbar[
-<br><br><br>
-![:portrait Baron D'Holbach, 1723-1789, 80%](img/01/holbach.jpg)
-]
-
-.middletext[
-
-<br><br>
-
-.left-blurb[
-
-"Do we have free will or are we just cogs in a vast machine?"
-
-]
-
-]
-
-.right-list[
-
-- Philosophical questions are often much more general than questions we normally encounter.
-
-]
-
-.right-list[
-
-- Science seeks answers to particular questions about the regularities in the world of our experience and shrinks away from such general questions as this.
-
-]
-
-.right-list[
-
-- This is a question in the sub-field of philosophy called .red[metaphysics] or .red[ontology] which seeks an account of the basic nature of reality.
-
-]
-
----
-layout: false
-
 .pull-left[
 
 <br>
 
-#### .center[.red[*More value theory questions...*]]
+### .center[.red[*More metaphysical questions...*]]
 ]
 
 .pull-right[
 
-![:scale 80%, #888;](img/01/nukes-6.jpg)
+![:scale 80%, #888;](img/01/galaxy-wikiimages.jpg)
+
 ]
 
 <br>
 
-- Is it ever wrong to pursue knowledge and is it sometimes just best *not* to know?
+- What sorts of things exist -- only matter, or minds/souls/disembodied spirits as well?
 
-- Is science value neutral, with moral questions only relevant to the application of scientific findings?
+- What *is* the relationship between minds and brains, and can we build an artificial brain that actually has a mind?
 
-- Is scientific knowledge public or private, and who should profit from new discoveries?
+- How does order arise in the universe and what is the role of chance in the way things are?
 
-- What role should scientific findings play in social policy?
+- Are purposes built-in to things or imposed on them by us?
 
 ---
 
@@ -282,7 +281,7 @@ layout: false
 
 <br>
 
-#### .center[.red[*More epistemological questions...*]]
+### .center[.red[*More epistemological questions...*]]
 ]
 
 .pull-right[
@@ -302,6 +301,8 @@ layout: false
 - What is truth and is it singular or plural?
 
 
+
+
 ---
 layout: false
 
@@ -309,24 +310,25 @@ layout: false
 
 <br>
 
-#### .center[.red[*More metaphysical questions...*]]
+### .center[.red[*More value theory questions...*]]
 ]
 
 .pull-right[
 
-![:scale 80%, #888;](img/01/galaxy-wikiimages.jpg)
-
+![:scale 80%, #888;](img/01/nukes-6.jpg)
 ]
 
 <br>
 
-- What sorts of things exist -- only matter, or minds/souls/disembodied spirits as well?
+- Is it ever wrong to pursue knowledge and is it sometimes just best *not* to know?
 
-- What *is* the relationship between minds and brains, and can we build an artificial brain that actually has a mind?
+- Is science value neutral, with moral questions only relevant to the application of scientific findings?
 
-- How does order arise in the universe and what is the role of chance in the way things are?
+- Is scientific knowledge public or private, and who should profit from new discoveries?
 
-- Are purposes built-in to things or imposed on them by us?
+- What role should scientific findings play in social policy?
+
+
 
 ---
 layout: true
