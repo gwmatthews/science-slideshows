@@ -384,7 +384,6 @@ class: center credits
 
 [download this presentation](./pdf/01-slides.pdf) or [print it](./pdf/01-handout.pdf)
 
-![:jump editorial suggestions and comments](https://github.com/gwmatthews/science-slideshows/issues): requires a (free) GitHub account.
 
 
 
