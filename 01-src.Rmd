@@ -82,7 +82,13 @@ Is **wisdom** just knowing how little you know?
 ---
 layout: false
 
-### ![:jump *Have smart phones destroyed a generation?*](http://www.6worlds.net/science-blog/science-or-superstition/part-1/what-is-science/debate-have-smartphones-destroyed-a-generation/)
+### *What do we know and how do we know it?*
+
+.topcap[
+![:jump *Have smart phones destroyed a generation?*](http://www.6worlds.net/science-blog/science-or-superstition/part-1/what-is-science/debate-have-smartphones-destroyed-a-generation/)
+]
+
+![:vspace 10]()
 
 .narrow-text[
 .question[
@@ -97,24 +103,28 @@ What is the difference between philosophical and scientific skepticism?
 ]
 
 ---
-### *Organized skepticism*
+### *What do we know and how do we know it?*
 
-.example[.red[Science keeps skepticism contained with:]
+.example[.red[Science as organized skepticism:]
 
-- **Rejection of global doubts**: don't have such an open mind that your brains fall out.
+- **Reject global doubts**: don't have such an open mind that your brains fall out.
 
-- **Reliance on public evidence:** many eyes make all problems easy.
+- **Rely only on public evidence:** many eyes make all problems easy.
 
-- **Trusting strength in numbers:** if it can't be repeated it can't be trusted.
+- **Trust strength in numbers:** if it can't be repeated it can't be trusted.
 
-- **Structured testing:** make risky predictions and be willing to admit failure.
+- **Test and test again:** make risky predictions and be willing to admit failure.
 
-- **Resistance to theory:** let the the big picture emerge on its own.]
+- **Resist theory:** let the the big picture emerge on its own.]
 
 ---
 
 layout: false
-### *Philosophical questions*
+### *The role of philosophy*
+
+.topcap[Philosophical questions]
+
+![:vspace 10]()
 
 .narrow-text[
 .question[
