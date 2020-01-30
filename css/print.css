@@ -256,6 +256,11 @@ body {
   line-height: 1.5;
 }
 
+.xlarge ul, .xlarge li { 
+  font-size: x-large;
+  line-height: 1.5;
+}
+
 .topcap {
   color: var(--text-color-3);
   font-size: x-large;

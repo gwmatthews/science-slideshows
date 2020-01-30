@@ -1,57 +1,322 @@
-class: middle center fractal
+class: middle center
 
-# *What is science anyway?*
+# *On the Origins of Science*
 
-### *method, knowledge, attitude*
+### *from seeing patterns to building models*
 
-![:scale 60%, #666;](img/01/Haeckel.jpg)
+![:scale 60%, #666;](img/02/big-dipper-felix_w.jpg)
 
 
-.author[George Matthews, Plymouth State University
+.small-text[George Matthews, Plymouth State University
 
-*2020*
-]
+*2020*]
+
+---
+layout: true
+class: middle center credits
+
 ---
 
-## *the scientific method*
+![:scale 100%, #666;](img/02/hominids.jpg)
+
+~2,000,000 years ago
+
+---
+
+![:scale 90%, #666;](img/02/hominids-fire.jpg)
+
+~1,000,000 years ago
+
+---
+
+![:scale 100%, #666;](img/02/out-of-africa.jpg)
+
+The "out of Africa" theory of human origins.
+---
+
+![:scale 100%, #666;](img/02/lascaux.jpg)
+
+~17,000 years ago
+---
+
+![:scale 100%, #666;](img/02/stonehenge.jpg)
+
+~5,000 years ago
+---
+
+![:scale 90%, #666;](img/02/neolithic-village.jpg)
+
+~5,000 years ago
+---
+
+![:scale 80%, #666;](img/02/ancient-sumer.jpg)
+
+~5,000 years ago
+---
+
+![:scale 100%, #666;](img/02/ancient-village.jpg)
+
+~5,000 years ago
+---
+
+![:scale 80%, #666;](img/02/cuneiform-van-crabben.jpg)
+
+writing ~5,000 years ago
+---
+
+![:scale 80%, #666;](img/02/egyptian-math.jpg)
+
+mathematics ~4,000 years ago
+---
+
+![:scale 90%, #666;](img/02/night-sky-3.jpg)
+
+---
+
+![:scale 90%, #666;](img/02/zodiac.jpg)
+
+patterns in the night sky
+
+---
+
+![:scale 80%, #666;](img/02/ancient-greece.jpg)
+
+---
+
+![:scale 100%, #666;](img/02/acropolis.jpg)
+
+447 BCE
+
+---
+layout: true
+class: xlarge
+
+---
+
+![:vspace 80]()
+
+.left-column[
 
 ![:vspace 20]()
 
---
+![:portrait Thales, 626-545 BCE, 80%](img/02/thales.jpg)
 
-- Make lots of careful observations.
+]
 
---
+.right-column[
 
-- Look for apparent patterns in the observations.
+.topcap[
 
---
+"All things are made of water."
 
-- Take a guess at an explanation for those patterns.
+]
 
---
+![:vspace 20]()
 
-- Deduce consequences of your explanations.
+- Thales made first recorded attempt at a naturalistic explanation of things.
+ 
+- He relied on experience and observation to come up with general claims.
 
---
-
-- Test to see if those appear.
-
---
-
-- Repeat with more observations, other explanations, new consequences, adjusting as consequences fail to appear.
+]
 
 ---
 
-![:video #333;](https://www.youtube.com/embed/0fKBhvDjuy0)
+![:vspace 80]()
+
+.left-column[
+
+![:vspace 20]()
+
+![:portrait Pythagoras, 570-495 BCE, 80%](img/02/pythagoras.jpg)
+
+]
+
+.right-column[
+
+.topcap[
+
+"All things are structured by numbers."
+
+]
+
+![:vspace 20]()
+
+- Pythagoras emphasized proportion, symmetry and order as essential to the nature of things.
+ 
+- Leader of a vegetarian mystical cult in Sicily.
+
+- Distressed by the discovery of irrational numbers.
+
+]
+
+---
+
+![:vspace 80]()
+
+.left-column[
+
+![:vspace 20]()
+
+![:portrait Heraclitus, 535-475 BCE, 80%](img/02/heraclitus.jpg)
+
+]
+
+.right-column[
+
+.topcap[
+
+"You can't step into the same river twice."
+
+]
+
+![:vspace 20]()
+
+- Heraclitus was an early philosopher who attempted to describe the nature of things in general terms.
+ 
+- Emphasized change and motion, denying that anything had permanent features.
+
+- Believed that the world was ultimately logical and understandable.
+ 
+]
+
+---
+
+![:vspace 80]()
+
+.left-column[
+
+![:vspace 20]()
+
+![:portrait Zeno, 495-425 BCE, 80%](img/02/zeno.jpg)
+
+]
+
+.right-column[
+
+.topcap[
+
+"Motion and change are illusions."
+
+]
+
+![:vspace 20]()
+
+- Zeno was a follower of Parmenides who emphasized the unity and permanent nature of things.
+ 
+- Came up with a series of paradoxes to prove that motion and change were impossible.
+
+![:scale 80%, #666;](img/02/achilles-2.png)
+
+]
+
+---
+
+![:vspace 80]()
+
+.left-column[
+
+![:vspace 20]()
+
+![:portrait Aristotle, 384-322 BCE, 80%](img/02/aristotle.jpg)
+
+]
+
+.right-column[
+
+.topcap[
+
+"All people by nature desire to know."
+
+]
+
+![:vspace 20]()
+
+- Aristotle was the teacher of Alexander the great and was the founder of many branches of science.
+ 
+- Developed a framework for understand all natural phenomena that held sway for 1500 years.
+
+- Emphasized direct observation of nature as the source of knowledge.
+
+]
+
+
+---
+
+![:vspace 80]()
+
+.left-column[
+
+![:vspace 20]()
+
+![:portrait Archimedes, 288-212 BCE, 80%](img/02/archimedes.jpg)
+
+]
+
+.right-column[
+
+.topcap[
+
+"Give me a place to stand and a lever and I will move the whole world."
+
+]
+
+![:vspace 20]()
+
+- Archimedes was an engineer, scientist and mathematician.
+ 
+- Developed theory of simple machines: lever, pulley and screw that have mechanical advantage.
+
+- Famous for his "eureka" moment in a bathtub.
+ 
+]
+
+---
+
+![:vspace 80]()
+
+.left-column[
+
+![:vspace 20]()
+
+![:portrait Ptolemy, 100-170 CE, 80%](img/02/ptolemy.jpg)
+
+]
+
+.right-column[
+
+.topcap[
+
+"The universe is a set of nested crystal spheres rotating around the earth."
+
+]
+
+![:vspace 20]()
+
+- Ptolemy created first comprehensive model of the known physical universe.
+ 
+- His "geocentric model" of the cosmos would be consensus view for 1500 years.
+
+- Synthesized the best theoretical and astronomical knowledge of his time and sought to "preserve the phenomena."
+ 
+]
 
 ---
 layout: false
 
 ## find out more
 
+![:jump Crash Course: Big History 5](https://youtu.be/UPggkvB9_dc): a great short documentary by John and Hank Green on human evolution.
+
+![:jump Ancient Greece](https://youtu.be/kix2L1j2cDc): The School of Life's video on the lasting contributions of the Ancient Greeks to world culture.
+
+![:jump The Presocratics](https://plato.stanford.edu/entries/presocratics/): a comprehensive account of the ideas of the Greek philosophers before Socrates who got the whole game going.
+
+![:jump Socrates on Self-confidence](https://youtu.be/S24FxdvfOko): find out more about Socrates and his life.
 
 ---
+class: middle credits center
+
+![:scale 80%, #666;](img/02/sky-map.jpg)
 
 #### Credits
 
@@ -61,13 +326,5 @@ layout: false
 
 ![:jump xarignan](https://github.com/yihui/xaringan) html presentation framework 
 
-*Photos by:*
-
-![:jump WikiImages](https://pixabay.com/users/wikiimages-1897/) at Pixabay.
-
-
-[download this presentation](./pdf/01-slides.pdf) or [print it](./pdf/01-handout-print.pdf)
-
-![:jump editorial suggestions and comments](https://github.com/gwmatthews/philosophy-slideshows/issues): requires a (free) GitHub account.
-
+[download this presentation](./pdf/01-slides.pdf) or [print it](./pdf/02-handout.pdf)
 
