@@ -21,7 +21,7 @@ class: center
 
 --
 
-### *wear your granpdpa's sweatshirt?*
+### *wear your grandpa's sweatshirt?*
 
 ![:scale 40%, #ddd;](img/03/sweatshirt-1.jpg)
 
@@ -118,7 +118,7 @@ layout: false
 .argument[
 - Some things have essential, permanent features built-in to them.
 
-- These "essences" dtermine how things behave, and what their "natural place" in the order of things is and should be.
+- These "essences" determine how things behave, and what their "natural place" in the order of things is and should be.
 
 - It is *wrong* to treat things differently than what their essence demands.
 ]
