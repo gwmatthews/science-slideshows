@@ -8,6 +8,7 @@
 --text-color-1: #000000;
 --text-color-2: #666666;
 --text-color-3: #333333;
+--text-color-4: #666666;
 --slide-number: #ffffff;
 --link-color: #666666;
 --shadow-color: #ffffff;
@@ -307,6 +308,8 @@ img.credits h4 {
 
 .image-credits {
   font-size: x-small;
+  font-style: italic;
+  color: var(--text-color-4);
   text-align: center;
   margin-top: 0;
   padding-top: 0;

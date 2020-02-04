@@ -9,6 +9,7 @@
 --text-color-1: #002222;
 --text-color-2: #cccccc;
 --text-color-3: #ee0066;
+--text-color-4: #888888;
 --slide-number: #888888;
 --link-color: #f92672;
 --shadow-color: #999999;
@@ -257,6 +258,11 @@ body {
   line-height: 1.5;
 }
 
+.xlarge-serif {
+  font-size: 130%;
+  line-height: 1.5;
+}
+
 .xlarge ul, .xlarge li { 
   font-size: x-large;
   line-height: 1.5;
@@ -308,6 +314,8 @@ img.credits h4 {
 
 .image-credits {
   font-size: x-small;
+  font-style: italic;
+  color: var(--text-color-4);
   text-align: center;
   margin-top: 0;
   padding-top: 0;

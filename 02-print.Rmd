@@ -1,5 +1,5 @@
 ---
-title: "What is philosophy?"
+title: "On the origins of science"
 output:
   xaringan::moon_reader:
     seal: false
