@@ -1,0 +1,160 @@
+class: middle center
+
+# *The Scientific Revolution*
+
+### *the world turned upside down*
+
+
+
+
+.small-text[George Matthews, Plymouth State University
+
+*2020*]
+
+---
+class: center
+
+.xlarge-text[*Heaven and Earth: before and after*]
+
+.pull-left[
+
+![:scale 80%, #ccc;](img/04/geocentric.png)
+
+![:vspace 10]
+
+![:scale 80%, #ccc;](img/04/parabola-2.jpg)
+
+]
+
+.pull-right[
+
+![:vspace 20]
+
+![:scale 80%, #ccc;](img/04/solar-system-8.jpg)
+
+![:vspace 25]
+
+![:scale 80%, #ccc;](img/04/parabola-4.jpg)
+
+
+]
+
+---
+class: middle
+
+
+![:portrait Nicholas Copernicus, 1473-1543, 30%](img/04/copernicus-3.jpg)
+
+![:vspace 20]()
+
+.quote-box[
+
+"Therefore, when I considered this carefully, the contempt which I had to fear because of the novelty and apparent absurdity of my view, nearly induced me to abandon utterly the work I had begun."
+
+]
+
+---
+class: middle
+
+![:portrait Tycho Brahe, 1546-1601, 30%](img/04/brahe.jpg)
+
+![:vspace 20]()
+
+.quote-box[
+"The machine of Heaven is not a hard and impervious body full of various real spheres . . . it extends everywhere, most fluid and simple, and nowhere presents obstacles as was formerly held, the circuits of the Planets being wholly free . . . being divinely governed under a given law."
+]
+
+---
+class: middle 
+
+![:portrait Giordano Bruno, 1548-1600, 30%](img/04/bruno.jpg)
+
+![:vspace 20]()
+
+.quote-box[
+
+"Innumerable suns exist. Innumerable earths revolve around these. Living beings inhabit these worlds."
+
+]
+
+---
+class: middle
+
+![:portrait Galileo Galilei, 1564-1642, 30%](img/04/galileo-2.jpg)
+
+![:vspace 20]()
+
+.quote-box[
+
+"For in the sciences the authority of thousands of opinions is not worth as much as one tiny spark of reason in an individual man. Besides, the modern observations deprive all former writers of any authority, since if they had seen what we see, they would have judged as we judge."
+
+]
+
+---
+class: middle
+
+![:portrait Johannes Kepler, 1571-1630, 30%](img/04/kepler-2.jpg)
+
+![:vspace 20]()
+
+.quote-box[
+
+"I was almost driven to madness in considering and calculating this matter. I could not find out why the planet would rather go on an elliptical orbit."
+
+]
+
+---
+class: center middle slideshow
+
+<iframe src="https://lab.nstmf.org/gravity"></iframe>
+
+---
+
+class: middle
+
+![:portrait Rene Descartes, 1596-1650, 30%](img/04/descartes.jpg)
+
+![:vspace 20]()
+
+.quote-box[
+
+"In my opinion, everything happens in nature in a mathematical way."
+
+]
+
+---
+class: middle
+
+![:portrait Isaac Newton, 1643-1727, 30%](img/04/newton.jpg)
+
+![:vspace 20]()
+
+.quote-box[
+
+"Every body continues in its state of rest, or of uniform motion in a right line, unless it is compelled to change that state by forces impressed upon it."
+
+]
+
+---
+
+layout: false
+
+## find out more
+
+
+
+---
+class: middle credits center
+
+
+
+#### Credits
+
+*Built with:*
+
+![:jump Rstudio](https://rstudio.com/products/rstudio/) 
+
+![:jump xarignan](https://github.com/yihui/xaringan) html presentation framework 
+
+[download this presentation](./pdf/04-slides.pdf) or [print it](./pdf/04-handout.pdf)
+
