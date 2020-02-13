@@ -4,8 +4,7 @@ class: middle center
 
 ### *the world turned upside down*
 
-
-
+![:scale 70%, #ccc](img/04/earth.jpg)
 
 .small-text[George Matthews, Plymouth State University
 
@@ -40,6 +39,29 @@ class: center
 ]
 
 ---
+### *The Medieval World View*
+
+.pull-left[
+
+![:scale 90%, #ccc](img/04/dantes-world.jpg)
+
+]
+
+.pull-right[
+
+The universe is split in two:
+
+- heaven and earth
+- mind and matter
+- humans and animals
+- saints and sinners
+- perfection and imperfection
+
+Human life plays out on center stage between heaven and earth and everything else revolves around this drama.
+
+]
+
+---
 class: middle
 
 
@@ -54,6 +76,42 @@ class: middle
 ]
 
 ---
+
+### *Copernicus' Challenge*
+
+.pull-left[
+
+![:scale 90%, #ccc](img/04/copernicus-2.jpg)
+
+]
+
+--
+
+.half-list[
+
+.red[Nicholas Copernicus] was a Polish monk, mathematician and diplomat first proposed Heliocentric solar system as mathematically simpler.
+
+]
+
+--
+
+.half-list[
+
+*On the Revolutions of the Heavenly Spheres* was only published after his death, since he feared controversy.
+
+]
+
+--
+
+.half-list[
+
+60 years after his death only 15 people accepted his theory.
+
+]
+
+
+---
+
 class: middle
 
 ![:portrait Tycho Brahe, 1546-1601, 30%](img/04/brahe.jpg)
@@ -62,6 +120,40 @@ class: middle
 
 .quote-box[
 "The machine of Heaven is not a hard and impervious body full of various real spheres . . . it extends everywhere, most fluid and simple, and nowhere presents obstacles as was formerly held, the circuits of the Planets being wholly free . . . being divinely governed under a given law."
+]
+
+---
+
+### *Brahe's Data*
+
+.pull-left[
+
+![:scale 90%, #ccc](img/04/brahe-3.jpg)
+
+]
+
+--
+
+.half-list[
+
+.red[Tycho Brahe] was a Danish nobleman, astronomer, astrologer and alchemist.
+
+]
+
+--
+
+.half-list[
+
+Built and operated first astronomical observatories where he compiled enormous amounts of accurate data on positions of stars and planets.
+
+]
+
+--
+
+.half-list[
+
+Developed hybrid geocentric/heliocentric model of solar system.
+
 ]
 
 ---
@@ -74,6 +166,40 @@ class: middle
 .quote-box[
 
 "Innumerable suns exist. Innumerable earths revolve around these. Living beings inhabit these worlds."
+
+]
+
+---
+
+### *Bruno's Heresy*
+
+.pull-left[
+
+![:scale 90%, #ccc](img/04/bruno-2.jpg)
+
+]
+
+--
+
+.half-list[
+
+.red[Giordano Bruno] was an Italian mystic and monk who publicly challenged official church doctrines on the structure of the universe and religious topics.
+
+]
+
+--
+
+.half-list[
+
+First person known to suggest that stars are distant suns.
+
+]
+
+--
+
+.half-list[
+
+Tried and executed by burning as a heretic after he returned to Italy in 1600.
 
 ]
 
@@ -91,6 +217,50 @@ class: middle
 ]
 
 ---
+
+### *Galileo's observations*
+
+.pull-left[
+
+![:scale 90%, #ccc](img/04/galileo-4.jpg)
+
+]
+
+--
+
+.half-list[
+
+.red[Galileo Galilei] was an Italian mathematician and astronomer who might be considered the first modern physicist.
+
+]
+
+--
+
+.half-list[
+
+Used a telescope to explore the moon, sun and planets.
+
+]
+
+--
+
+.half-list[
+
+Observed and described mountains on moon, moons of Jupiter, sunspots.
+
+]
+
+--
+
+.half-list[
+
+Forced to publicly deny his own theories or face torture and death.
+
+]
+
+
+
+---
 class: middle
 
 ![:portrait Johannes Kepler, 1571-1630, 30%](img/04/kepler-2.jpg)
@@ -104,25 +274,41 @@ class: middle
 ]
 
 ---
-class: center middle slideshow
 
-<iframe src="https://lab.nstmf.org/gravity"></iframe>
+### *Kepler's models*
 
----
+.pull-left[
 
-class: middle
+![:scale 90%, #ccc](img/04/keplers-laws-2.jpg)
 
-![:portrait Rene Descartes, 1596-1650, 30%](img/04/descartes.jpg)
+]
 
-![:vspace 20]()
+--
 
-.quote-box[
+.half-list[
 
-"In my opinion, everything happens in nature in a mathematical way."
+.red[Johannes Kepler] was an Austrian astronomer who built the first accurate mathematical model of planetary motion.
+
+]
+
+--
+
+.half-list[
+
+Showed that planets move in elliptical orbits and *not* at a uniform speed around the sun.
+
+]
+
+--
+
+.half-list[
+
+His three laws of planetary motion were derived from careful study of the data.
 
 ]
 
 ---
+
 class: middle
 
 ![:portrait Isaac Newton, 1643-1727, 30%](img/04/newton.jpg)
@@ -137,16 +323,79 @@ class: middle
 
 ---
 
+### *Newton's Laws*
+
+.pull-left[
+
+![:scale 90%, #ccc](img/04/isaac-newton-drawings.jpg)
+
+![:vspace 50]()
+
+]
+
+--
+
+.half-list[
+
+.red[Isaac Newton] was a British mathematician and astronomer who showed that one set of  mathematical laws governs all motion on earth and in the heavens.
+
+]
+
+--
+
+.half-list[
+
+Developed the calculus as a way to describe continuous change in the motion of bodies acted upon by forces.
+
+]
+
+--
+
+.half-list[
+
+Refused to speculate on the causes of gravitation.
+
+]
+
+---
+class: center
+
+.xlarge-text[*Heaven and Earth: before and after*]
+
+.pull-left[
+
+![:scale 80%, #ccc;](img/04/geocentric.png)
+
+![:vspace 10]
+
+![:scale 80%, #ccc;](img/04/parabola-2.jpg)
+
+]
+
+.pull-right[
+
+![:vspace 20]
+
+![:scale 80%, #ccc;](img/04/solar-system-8.jpg)
+
+![:vspace 25]
+
+![:scale 80%, #ccc;](img/04/parabola-4.jpg)
+
+]
+
+---
+
 layout: false
 
 ## find out more
 
-
+![:jump Gravity simulator](https://lab.nstmf.org/gravity): a fun and mildly addictive simulator that tests your skills at building stable solar systems.
 
 ---
 class: middle credits center
 
-
+![:scale 50%, #ccc](img/04/space-travel.jpg)
 
 #### Credits
 
