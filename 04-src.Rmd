@@ -390,7 +390,11 @@ layout: false
 
 ## find out more
 
-![:jump Gravity simulator](https://lab.nstmf.org/gravity): a fun and mildly addictive simulator that tests your skills at building stable solar systems.
+![:jump Timeline of the scientific revolution](http://www.6worlds.net/science-blog/science-or-superstition/part-2/timeline-the-scientific-revolution/timeline-the-scientific-revolution/): find out more about some major figures -- those mentioned here and others as well.
+
+![:jump Deciphering the motions of the planets](http://www.6worlds.net/science-blog/science-or-superstition/part-2/reality-and-appearances/reading-the-motion-of-the-planets/): the key problem that initiated the Scientific Revolution
+
+![:jump Gravity simulator](http://www.6worlds.net/science-blog/science-or-superstition/part-2/timeline-the-scientific-revolution/gravity-simulator/): a fun and mildly addictive simulator that tests your skills at building stable solar systems.
 
 ---
 class: middle credits center
