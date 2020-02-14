@@ -14,9 +14,9 @@ class: middle center
 
 ### *a puzzle*
 
-.left-column[
+.pull-left[
 
-![:scale 80%, #ccc]
+![:scale 80%, #fff](img/05/descartes-pineal.jpg)
 
 ]
 
@@ -27,14 +27,14 @@ class: middle center
 ### *Descartes Solution*
 
 
-![:video #ccc;](https://youtu.be/B2BAkVwZpoU)
+![:video #ccc;](https://www.youtube.com/embed?v=B2BAkVwZpoU)
 
 ---
 
 ### *Galieo's Solution*
 
 
-![:video #ccc;](https://youtu.be/5jeCZE5iq0o)
+![:video #ccc;](https://www.youtube.com/embed?v=5jeCZE5iq0o)
 
 
 ---
