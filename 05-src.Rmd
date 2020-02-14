@@ -1,0 +1,62 @@
+class: middle center
+
+# *Knowledge and Observation*
+
+### *distinguishing appearances and reality*
+
+![:scale 60%, #ccc](img/05/matrix-geralt.jpg)
+
+.small-text[George Matthews, Plymouth State University
+
+*2020*]
+
+---
+
+### *a puzzle*
+
+.left-column[
+
+![:scale 80%, #ccc]
+
+]
+
+
+
+---
+
+### *Descartes Solution*
+
+
+![:video #ccc;](https://youtu.be/B2BAkVwZpoU)
+
+---
+
+### *Galieo's Solution*
+
+
+![:video #ccc;](https://youtu.be/5jeCZE5iq0o)
+
+
+---
+
+layout: false
+
+## find out more
+
+
+
+---
+class: middle credits center
+
+![:scale 50%, #ccc](img/04/space-travel.jpg)
+
+#### Credits
+
+*Built with:*
+
+![:jump Rstudio](https://rstudio.com/products/rstudio/) 
+
+![:jump xarignan](https://github.com/yihui/xaringan) html presentation framework 
+
+[download this presentation](./pdf/04-slides.pdf) or [print it](./pdf/04-handout.pdf)
+

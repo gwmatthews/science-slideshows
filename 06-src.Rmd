@@ -1,0 +1,38 @@
+class: middle center
+
+# *Visual Illusions*
+
+### *seeing double*
+
+![:scale 70%, #ccc](img/04/earth.jpg)
+
+.small-text[George Matthews, Plymouth State University
+
+*2020*]
+
+---
+
+
+---
+
+layout: false
+
+## find out more
+
+
+
+---
+class: middle credits center
+
+![:scale 50%, #ccc](img/04/space-travel.jpg)
+
+#### Credits
+
+*Built with:*
+
+![:jump Rstudio](https://rstudio.com/products/rstudio/) 
+
+![:jump xarignan](https://github.com/yihui/xaringan) html presentation framework 
+
+[download this presentation](./pdf/06-slides.pdf) or [print it](./pdf/06-handout.pdf)
+
