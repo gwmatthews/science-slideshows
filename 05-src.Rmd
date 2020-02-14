@@ -27,14 +27,14 @@ class: middle center
 ### *Descartes Solution*
 
 
-![:video #ccc;](https://www.youtube.com/embed?v=B2BAkVwZpoU)
+![:video #ccc;](https://www.youtube.com/embed/B2BAkVwZpoU)
 
 ---
 
 ### *Galieo's Solution*
 
 
-![:video #ccc;](https://www.youtube.com/embed?v=5jeCZE5iq0o)
+![:video #ccc;](https://www.youtube.com/embed/5jeCZE5iq0o)
 
 
 ---
