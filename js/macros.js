@@ -36,5 +36,5 @@ remark.macros.vspace = function (size) {
 
 remark.macros.video = function (color) {
    var url = this;
-   return '<div class="video" style="border: 4px solid ' + color + '"><iframe src="' + url + '" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>';
+   return '<div class="video" style="border: 4px solid ' + color + '"><iframe src="https://www.youtube.com/embed/' + url + '" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>';
 }
