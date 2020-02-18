@@ -4,48 +4,236 @@ class: middle center
 
 ### *distinguishing appearances and reality*
 
-![:scale 60%, #ccc](img/05/matrix-geralt.jpg)
+![:scale 70%, #ccc](img/05/matrix-tobias-et.jpg)
 
 .small-text[George Matthews, Plymouth State University
 
 *2020*]
 
+
 ---
+class: middle 
 
-### *a puzzle*
+![:vspace 120]()
 
-.pull-left[
+.left-column[
 
-![:scale 80%, #fff](img/05/descartes-pineal.jpg)
+![:vspace 200]()
+
+![:portrait Rene Descartes, 1596-1650, 80%](img/05/descartes.jpg)
 
 ]
 
+.right-column[
 
+.quote-box[
+
+"It is now some years since I detected how many were the false beliefs that I had from my earliest youth admitted as true, and how doubtful was everything I had since constructed on this basis; and from that time I was convinced that I must once for all seriously undertake to rid myself of all the opinions which I had formerly accepted, and commence to build anew from the foundation, if I wanted to establish any firm and permanent structure in the sciences."
+
+]
+
+.bottomcap[*Meditations on First Philosophy*, 1641]
+
+]
 
 ---
+
+### *Descartes' dream*
+
+.left-column[
+
+![:scale 110%, #fff](img/05/descartes-pineal.jpg)
+
+]
+
+--
+
+.right-list[
+
+- Our thinking about the world is .alert[representational]. 
+
+]
+
+--
+
+.right-list[
+
+- Thoughts are encoded in arbitrary symbols that need not look anything like the things they are about. 
+
+]
+
+--
+
+.right-list[
+
+- Knowing something about reality requires a reliable way of connecting thoughts to reality. 
+
+]
+
+--
+
+.wide-list[
+
+- But then how can we know anything at all with any certainty?
+
+]
+
+--
+
+.wide-list[
+
+- How can I know that I am not dreaming right now, or that reality is not entirely different than the way it seems to me?
+
+]
+
+---
+layout: true
 
 ### *Descartes Solution*
 
+---
+--
 
-![:video #ccc;](B2BAkVwZpoU)
+- Find someone or something you can trust.
+
+--
+
+- Rely on them or it to prevent you from falling into errors.
+
+--
+
+- Descartes finds that he can trust his own reasoning enough to prove that God exists and that God would just not *let* him be massively deceived.
+
+--
+
+![:scale 80%, #ccc](img/05/red_pill_neo.jpg)
 
 ---
+
+![:video #ccc](B2BAkVwZpoU)
+
+---
+layout: false
+
+![:vspace 130]()
+
+.left-column[
+
+![:vspace 70]()
+
+![:portrait Galileo Galilei, 1564-1642, 80%](img/04/galileo-2.jpg)
+
+]
+
+.right-column[
+
+.quote-box[
+
+"For in the sciences the authority of thousands of opinions is not worth as much as one tiny spark of reason in an individual man. Besides, the modern observations deprive all former writers of any authority, since if they had seen what we see, they would have judged as we judge."
+
+]
+
+.bottomcap[Letter to Mark Wessler, 1612]
+
+]
+
+---
+
+### *Galieo's clock*
+
+.left-column[
+
+![:scale 100%, #fff](img/05/chandelier.jpg)
+
+]
+
+--
+
+.right-list[
+
+- Figuring out what is happening in reality requires making accurate measurements.
+
+]
+
+--
+
+.right-list[
+
+- But how can we make accurate measurements without already having accurate measuring devices, and how can we tell that *they* are accurate?
+
+]
+
+--
+
+.wide-list[
+
+- Science describes patterns in nature and needs to distinguish real patterns from only apparent patterns.
+
+]
+
+--
+
+.wide-list[
+
+- The ultimate reality of things doesn't matter as much as being able to predict and control appearances and this is possible with methodical examination of appearances.
+
+]
+
+---
+layout: true
 
 ### *Galieo's Solution*
 
+---
 
-![:video #ccc;](5jeCZE5iq0o)
+--
 
+- Use instruments to extend the senses.
+
+--
+
+- Seek experimental validation of theoretical expectations.
+
+--
+
+- Use multiple independent sources of information to enhance the accuracy of all.
+
+--
+
+![:scale 70%, #ccc](img/05/truman-show.jpg)
 
 ---
 
+![:video #ccc](5jeCZE5iq0o)
+
+---
 layout: false
 
-## find out more
+## A Practical question
 
+.question[
 
+Given that all sources of news might be biased, how can we figure out who to trust and what might actually be going on in the world?
+
+]
+
+--
+
+- Hints: collect data, classify, corroborate 
+---
+
+class: middle center
+
+![:scale 95%, #ccc](img/05/media-bias.jpg)
+
+.bottomcap[
+
+![:jump adfontesmedia.com](https://www.adfontesmedia.com/the-chart-version-3-0-what-exactly-are-we-reading)
+
+]
 
 ---
+layout: false
 class: middle credits center
 
 ![:scale 50%, #ccc](img/04/space-travel.jpg)

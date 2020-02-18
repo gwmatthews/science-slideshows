@@ -3,7 +3,7 @@ title: "On the origins of science"
 output:
   xaringan::moon_reader:
     seal: false
-    css: ["default", "css/vanilla-fonts.css", "css/print.css"]
+    css: ["default", "css/fonts.css", "css/print.css", "css/slides.css"]
     lib_dir: libs
     nature:
       sourceUrl: "02-src.Rmd"
