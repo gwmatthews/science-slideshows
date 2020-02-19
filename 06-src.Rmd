@@ -2,16 +2,218 @@ class: middle center
 
 # *Visual Illusions*
 
-### *seeing double*
+### *seeing how the mind sees*
 
-![:scale 70%, #ccc](img/04/earth.jpg)
+![:scale 50%, #ccc](img/06/impossible-figure.jpg)
 
 .small-text[George Matthews, Plymouth State University
 
 *2020*]
 
 ---
+### *Theories of knowledge*
 
+.topcap[rationalism]
+
+- Mind deduces the basic nature of things from fundamental concepts; knowledge results from things through carefully.
+
+![:vspace 20]()
+
+.topcap[empiricism]
+
+- Mind passively recieves information from outside; knowledge requires dropping pre-concieved ideas about what things are like and letting the data speak for itself. 
+
+![:vspace 20]()
+
+.topcap[constructivism]
+
+- Mind organizes raw data into a coherent picture of reality, so knowledge involves building models and testing them against new information.
+
+---
+class: middle
+
+![:scale 70%, #ccc](img/06/perspective-1.jpg)
+
+![:vspace 30]()
+
+.question[
+
+If the world that we experience is a mental construct, how does this affect our ability to know what things are really like?
+
+]
+
+---
+layout: true
+
+### Completing the picture
+
+---
+
+--
+
+![:scale 60%, #fff](img/06/dalmatian.jpg)
+
+---
+
+![:scale 60%, #fff](img/06/triangle.png)
+
+---
+
+![:scale 60%, #fff](img/06/necker-cube.jpg)
+
+---
+
+![:scale 60%, #fff](img/06/neon-color-circle.jpg)
+
+---
+
+![:scale 60%, #fff](img/06/neon-colors.jpg)
+
+---
+
+![:scale 70%, #fff](img/06/black-dots.jpg)
+
+---
+layout: true
+
+### Orienting things in space
+
+---
+
+--
+
+![:scale 70%, #fff](img/06/cafe-illusion.jpg)
+
+---
+
+![:scale 60%, #fff](img/06/blue-horizontal-lines.jpg)
+
+---
+
+![:scale 60%, #fff](img/06/waves-1.jpg)
+
+---
+
+![:scale 60%, #fff](img/06/waves-2.jpg)
+
+---
+
+![:scale 60%, #fff](img/06/3d-painting1-illusion.jpg)
+
+---
+
+![:scale 60%, #fff](img/06/3d-painting1.jpg)
+
+---
+
+![:scale 60%, #fff](img/06/3d-painting2-illusion.jpg)
+
+---
+
+![:scale 60%, #fff](img/06/3d-painting2.jpg)
+
+---
+
+![:scale 80%, #fff](img/06/odeith-baton-rouge.jpg)
+
+---
+
+![:scale 40%, #fff](img/06/outdoor-shift.jpg)
+
+---
+
+![:video #ccc](Ttd0YjXF0no)
+
+---
+layout: true
+
+### Interpreting objects
+
+---
+
+--
+
+![:scale 50%, #fff](img/06/chalice.jpg)
+
+---
+
+![:scale 80%, #fff](img/06/duck-rabbit.jpg)
+
+---
+
+![:scale 60%, #fff](img/06/cat-mouse.png)
+
+---
+
+![:scale 50%, #fff](img/06/rotating-square.gif)
+
+---
+
+![:scale 60%, #fff](img/06/rotating-necker-cube.gif)
+
+---
+
+![:scale 80%, #fff](img/06/spinning-dancer.gif)
+
+---
+
+![:scale 60%, #fff](img/06/mask-ver.gif)
+
+---
+
+![:scale 60%, #fff](img/06/box.gif)
+
+---
+layout: true
+
+### Perceiving motion
+
+---
+
+--
+
+![:scale 60%, #fff](img/06/head-move.jpg)
+
+---
+
+![:scale 80%, #fff](img/06/cubes.jpg)
+
+---
+
+![:scale 80%, #fff](img/06/circles.jpg)
+
+---
+
+![:scale 70%, #fff](img/06/spirals.jpg)
+
+---
+layout: true
+
+### Perceiving color
+
+---
+
+--
+
+![:scale 60%, #fff](img/06/rubix.jpg)
+
+---
+
+![:scale 60%, #fff](img/06/rubix-masked.jpg)
+
+---
+
+![:scale 45%, #fff](img/06/girl-afterimage.jpg)
+
+---
+
+---
+
+![:scale 50%, #fff](img/06/pinkdots.gif)
+
+---
+
+![:scale 50%, #fff](img/06/dress.png)
 
 ---
 
@@ -20,11 +222,10 @@ layout: false
 ## find out more
 
 
-
 ---
 class: middle credits center
 
-![:scale 50%, #ccc](img/04/space-travel.jpg)
+![:scale 60%, #ccc](img/06/infinite-staircase.jpg)
 
 #### Credits
 
