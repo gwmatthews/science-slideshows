@@ -13,15 +13,21 @@ class: middle center
 ---
 ### *Theories of knowledge*
 
+--
+
 .topcap[rationalism]
 
 - Mind deduces the basic nature of things from fundamental concepts; knowledge results from things through carefully.
+
+--
 
 ![:vspace 20]()
 
 .topcap[empiricism]
 
 - Mind passively recieves information from outside; knowledge requires dropping pre-concieved ideas about what things are like and letting the data speak for itself. 
+
+--
 
 ![:vspace 20]()
 
