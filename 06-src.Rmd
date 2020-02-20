@@ -17,7 +17,7 @@ class: middle center
 
 .topcap[rationalism]
 
-- Mind deduces the basic nature of things from fundamental concepts; knowledge results from things through carefully.
+- Mind deduces the basic nature of things from fundamental concepts; knowledge results from thinking things through carefully.
 
 --
 
@@ -227,7 +227,9 @@ layout: false
 
 ## find out more
 
+![:jump Perception and Perceptual Illusions](https://www.psychologytoday.com/us/blog/theory-knowledge/201305/perception-and-perceptual-illusions)
 
+![:jump 136 Optical Illusion](https://michaelbach.de/ot/)
 ---
 class: middle credits center
 
