@@ -14,3 +14,10 @@ Created with xaringan.
 
 [5. Knowledge and Observation](https://gwmatthews.github.io/science-slideshows/05-slides.html)
 
+[6. Visual Illusions](https://gwmatthews.github.io/science-slideshows/06-slides.html)
+
+[7. Matter and Energy](https://gwmatthews.github.io/science-slideshows/07-slides.html)
+
+[8. A Little Logic](https://gwmatthews.github.io/science-slideshows/08-slides.html)
+
+[9. Fallacies and Biases](https://gwmatthews.github.io/science-slideshows/09-slides.html)
