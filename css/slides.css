@@ -29,13 +29,32 @@ a, a > code {
 }
 
 h4 {
-color: var(--text-color-2);
+color: var(--text-color-3);
+}
+
+.alert {
+  color: var(--highlight-color);
+  font-size: 110%;
 }
 
 .red {
   color: var(--text-color-3);
   font-size: 110%;
   text-shadow: 2px 2px 5px var(--shadow-color);
+}
+
+.note {
+  font-size: smaller;
+  color: var(--fade-in-color);
+  line-height: 110%;
+}
+
+.fade-in{
+  color: var(--fade-in-color);
+}
+
+.fade-out{
+  color: var(--fade-out-color);
 }
 
 .example {
