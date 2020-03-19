@@ -3,12 +3,10 @@ remark.macros.scale = function (percentage, frameColor) {
   return '<img class="photo" src="' + url + '" style="width: ' + percentage + ';border: 7px solid ' + frameColor + ';" alt="image" />';
 };
 
-
 remark.macros.jump = function (linkText) {
   var url = this;
   return '<a href="' + url + '"target="_blank">' + linkText + '</a>';
 };
-
 
 remark.macros.portrait = function (person, dates, percentage) {
   var url = this;
@@ -22,7 +20,6 @@ remark.macros.captionpic = function (caption, percentage, color) {
   
 };
 
-
 remark.macros.colorbox = function (x, y, boxWidth, boxType) {
   var content = this;
   return '<div class="' + boxType + '" style="position: absolute; left:' + x + '; top:' + y + '; width: ' + boxWidth +  ';"><p class="inner">'  + content + '</p></div>';
@@ -32,7 +29,6 @@ remark.macros.colorbox = function (x, y, boxWidth, boxType) {
 remark.macros.vspace = function (size) {
   return '<div style="height: ' + size + 'px;"><br></div>';
 };
-
 
 remark.macros.video = function (color) {
    var url = this;
