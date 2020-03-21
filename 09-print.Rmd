@@ -1,5 +1,5 @@
 ---
-title: "Fallacies and Biases"
+title: "Conditional Reasoning"
 output:
   xaringan::moon_reader:
     seal: false
