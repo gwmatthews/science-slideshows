@@ -24,17 +24,25 @@ layout: true
 
 ---
 
+![:scale 60%, #ccc](img/07/galileo-inclined-plane.jpg)
+
 - Development of experimental methods -- formulation and testing of empirical hypotheses.
 
 ---
+
+![:scale 50%, #ccc](img/07/gravitation.jpg)
 
 - A comprehensive mathematical model of mechanical and gravitational motion.
 
 ---
 
+![:scale 80%, #ccc](img/07/colbert-louis.jpg)
+
 - Establishment of scientific societies devoted to the development and publication of scientific findings.
 
 ---
+
+![:scale 90%, #ccc](img/07/humboldt.jpg)
 
 - A growing body of observational data in many areas as Europeans colonized and explored the rest of the world.
 
@@ -45,63 +53,179 @@ layout: true
 
 ---
 
+![:scale 80%, #ccc](img/07/four-elements.jpg)
+
 - What are material things made of?
 
 ---
+
+![:scale 80%, #ccc](img/07/alchemy.jpg)
 
 - How do chemical reactions work?
 
 ---
 
+![:scale 80%, #ccc](img/07/franklin.jpg)
+
 - What is electricity?
 
 ---
+
+![:scale 80%, #ccc](img/07/compass.jpg)
 
 - What is magnetism?
 
 ---
 
+![:scale 80%, #ccc](img/07/frans_snyders_market.jpg)
+
 - What is the difference between animate and inanimate things?
 
 ---
 
+![:scale 80%, #ccc](img/07/heat.jpg)
+
 - What is heat and why does it make some processes happen faster?
-
----
-
-These questions would all be answered in the 19th Century with the development of scientific understanding of the material world.
-
-The result...
 
 ---
 layout: false
 
-### *The Industrial Revolution*
+These questions would all be answered in the 19th Century with the development of scientific understanding of the material world.
+
+--
+
+.topcap[The result...]
+
+--
 
 ![:captionpic Pittsburgh 1900, 70%, #ccc](img/07/pittsburgh-1900.jpg)
 
 ![:vspace 20]
 
+--
+
 Scientific understanding of matter and energy would transform the world as never before in less than a century.
 
 ---
+layout: true
+
+### *Understanding electricity*
 
 ---
 
+![:captionpic 1750's, 70%, #ccc](img/07/hauksbee-nollet.jpg)
+
+--
+
+- Jean-Antoine Nollet builds electrostatic generators, shocks 800 monks in demonstration.
+
 ---
 
+![:captionpic 1780's, 50%, #ccc](img/07/galvani-frog-2.jpg)
 
+--
 
+- Luigi Galvani accidentally discovers that nerves are activated by electrical impulses.
 
+---
+
+![:captionpic early 1800's, 70%, #ccc](img/07/aldini-5.jpg)
+
+--
+
+- His followers think he has discovered the "animal electricity" that all living beings posses.
+
+---
+
+![:captionpic 1818, 60%, #ccc](img/07/frankenstein-3.jpg)
+
+--
+
+- Among those influenced was Mary Shelley whose novel *Frankenstein* assumed that dead tissue could be revitalized with electrical shocks.
+
+---
+
+![:captionpic 1800, 50%, #ccc](img/07/voltaic-pile.jpg)
+
+--
+
+- Alessandra Volta creates first battery based on his understanding of why the frog's leg twitched when touch with dissimilar metals.
+
+---
+
+![:captionpic 1831, 70%, #ccc](img/07/faraday-generator-2.jpg)
+
+--
+
+- Michael Faraday creates first electric current generator by building a device that moves a conductor through a magnetic field.
+
+---
+
+layout: true
+
+### *Understanding matter*
+
+---
+
+![:captionpic 1804, 70%, #ccc](img/07/davy-electrolysis.jpg)
+
+--
+
+- Humphrey Davy uses electric currents to isolate many elements such as sodium, lithium and potassium.
+
+---
+
+![:captionpic 1869, 70%, #ccc](img/07/periodic-table-3.jpg)
+
+--
+
+- Dmitri Mendeleev formulates first periodic table of the elements based on the findings of many chemists about how different sets of elements interact with each other to form compounds.
+
+---
+
+layout: true
+
+### *Understanding life*
+
+---
+
+![:captionpic 1838, 60%, #ccc](img/07/cells.jpg)
+
+--
+
+- Theodore Schwann and Matthias Schleiden develop the first cellular theory of life.
+
+---
+
+![:captionpic 1859, 70%, #ccc](img/07/finches-1.png)
+
+--
+
+- Charles Darwin develops his theory of Evolution by Natural Selection as the first comprehensive theory explaining the variety and adaptations of life on earth.
+
+---
 layout: false
 
-## find out more
+### *Connections*
 
+- Energy is the ability to do work or make things happen.
+
+- It comes in many forms: mechanical, thermal, chemical, electrical all of which can be converted into each other.
+
+- Electricty is moving electrons, and can be generated chemically and mechanically.
+
+- Heat is the average kinetic energy of moving bits of matter.
+
+- Chemical reactions involve sharing or exchange of electrically charged particles.
+
+- Biological cells are biochemical machines that take into energy, grow reproduce and move themselves.
 
 ---
+
+
 class: middle credits center
 
-![:scale 60%, #ccc](img/06/infinite-staircase.jpg)
+![:scale 60%, #ccc](img/07/industry.jpg)
 
 #### Credits
 
@@ -111,5 +235,5 @@ class: middle credits center
 
 ![:jump xarignan](https://github.com/yihui/xaringan) html presentation framework 
 
-[download this presentation](./pdf/06-slides.pdf) or [print it](./pdf/06-handout.pdf)
+[download this presentation](./pdf/07-slides.pdf) or [print it](./pdf/07-handout.pdf)
 
