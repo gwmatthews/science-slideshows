@@ -578,7 +578,7 @@ So she doesn't have ESP.
 
 .argument[
 
-If you had these symptoms you might have the disease.
+If you have these symptoms you might have the disease.
 
 I do not have those symptoms.
 
