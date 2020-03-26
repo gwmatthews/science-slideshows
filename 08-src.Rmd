@@ -205,6 +205,8 @@ Thus Socrates is mortal.
 
 ---
 
+![:vspace 30]
+
 --
 
 This simple argument has two **premises** and a **conclusion**.
@@ -214,6 +216,8 @@ This simple argument has two **premises** and a **conclusion**.
 .double[The premises are the information we start out with and the conclusion is what we claim *logically follows from* that information.]
 
 ---
+
+![:vspace 30]
 
 We'd like to know two things about it:
 
@@ -225,10 +229,9 @@ We'd like to know two things about it:
 
 2. And if so is it .red[SOUND]? Is the information in the premises true?
 
---
-
-.note[*note:* I'll write technical terms in all capitals -- it's not shouting, just a reminder that we are using these words in particular ways. See [glossary](#44) for definitions.]
 ---
+
+![:vspace 30]
 
 So is this argument VALID?
 
@@ -245,6 +248,8 @@ So is this argument VALID?
 - If not, then the argument is .red[VALID], as this one clearly is.
 
 ---
+
+![:vspace 15]
 
 So if it's VALID we then want to know whether it's SOUND.
 
@@ -288,7 +293,7 @@ Once again we start with an *assumption* -- let's suppose that the premises are 
 
 --
 
-- Clearly not, just ask him. Sound it is INVALID and thus alos UNSOUND.
+- Clearly not, just ask him. Sound it is INVALID and thus also UNSOUND.
 
 --
 
@@ -307,6 +312,8 @@ Thus all cats are made of wood.
 ]
 
 --
+
+![:vspace 15]
 
 If the premises *were* true would the conclusion *have to be true* as well?
 
@@ -391,6 +398,196 @@ Its easier then it seems -- in this case we just find some ages that make the pr
 | Wilma     |  38  |
 
 ]
+
+---
+
+### *Conditional reasoning*
+
+--
+
+Which cards MUST be flipped over to determine whether the following rule is true?
+
+--
+
+.topcap[
+
+If there is an odd number on one side, there is a vowel on the other side.
+
+]
+
+--
+
+![:colorbox 100px, 350px, 100px, cbox](<p style="font-size: 300%;">E</p>)
+
+![:colorbox 300px, 350px, 100px, cbox](<p style="font-size: 300%;">M</p>)
+
+![:colorbox 500px, 350px, 100px, cbox](<p style="font-size: 300%;">3</p>)
+
+![:colorbox 700px, 350px, 100px, cbox](<p style="font-size: 300%;">6</p>)
+
+
+---
+
+### *Conditional reasoning*
+
+--
+
+Whose hand or drink  must you check cards MUST be flipped over to determine whether the following rule is being violated? 
+
+(**X on hand means under 21.**)
+
+--
+
+.topcap[
+
+If you are under 21, you are not allowed to drink alcohol.
+
+]
+
+--
+
+![:colorbox 100px, 350px, 100px, cbox](<img src="img/08/coke.png" width="70px">)
+
+![:colorbox 300px, 350px, 100px, cbox](<img src="img/08/pbr.png" width="65px">)
+
+![:colorbox 500px, 350px, 100px, cbox](<img src="img/08/fist-x.jpg" width="90px">)
+
+![:colorbox 700px, 350px, 100px, cbox](<img src="img/08/fist.jpg" width="90px">)
+
+---
+layout: true
+### *More examples*
+
+![:vspace 80]
+
+---
+
+--
+
+.argument[
+
+
+If the moon is full, more people do crazy things.
+
+The moon is full tonight.
+
+***
+
+So more people will do crazy things.
+
+
+]
+
+---
+
+.argument[
+
+If many children are not vaccinated against measles, measles outbreaks will occur.
+
+Many children are not being vaccinated against measles.
+
+***
+
+Thus measles outbreaks will occur.
+
+]
+
+
+
+---
+
+.argument[
+
+The earth is at the center of the universe. This is because if it were at the center, the sun would appear to travel across the sky, which it does.
+
+]
+
+---
+
+.argument[
+
+If the earth were at the center of the universe, the sun would appear to travel across the sky.
+
+The sun does appear to travel across the sky.
+
+***
+
+Thus the earth is at the center of the universe. 
+
+]
+
+---
+
+.argument[
+
+If you were abducted by aliens you would remember it. 
+
+Betty and Barney remember being abducted by aliens.
+
+***
+
+This proves that they were abducted by aliens as they have claimed.
+
+]
+
+---
+
+.argument[
+
+If the earth were really moving we would feel it moving.
+
+But we don't feel it moving.
+
+***
+
+So it is not in fact moving.
+
+]
+
+---
+
+.argument[
+
+If the Loch Ness monster existed there would have to be hundreds of them.
+
+If there were hundreds of them sightings would be frequent, somebody would have gotten a good video or we would have captured one by now.
+
+But none of these things have happened.
+
+***
+
+So it does not exist.
+
+]
+
+---
+
+.argument[
+
+If her Zener card results were significantly better than what we'd expect from chance alone, she would have ESP.
+
+Her Zener cards results were NOT better than what we would expect from chance alone.
+
+***
+
+So she doesn't have ESP.
+
+]
+
+---
+
+.argument[
+
+If you had these symptoms you might have the disease.
+
+I do not have those symptoms.
+
+***
+
+Thus I do not have the disease.
+
+]
+
 
 ---
 layout: false
