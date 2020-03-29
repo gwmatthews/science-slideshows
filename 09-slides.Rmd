@@ -1,5 +1,5 @@
 ---
-title: "Conditional Reasoning"
+title: "Fallacies and Biases"
 output:
   xaringan::moon_reader:
     seal: false
@@ -7,6 +7,6 @@ output:
     lib_dir: libs
     nature:
       sourceUrl: "09-src.Rmd"
-      countIncrementalSlides: true
+      countIncrementalSlides: false
       beforeInit: "js/macros.js" 
 --- 

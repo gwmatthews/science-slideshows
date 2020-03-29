@@ -1,5 +1,5 @@
 ---
-title: "Fallacies and Biases"
+title: "Identify the Fallacy"
 output:
   xaringan::moon_reader:
     seal: false
@@ -7,6 +7,6 @@ output:
     lib_dir: libs
     nature:
       sourceUrl: "10-src.Rmd"
-      countIncrementalSlides: false
+      countIncrementalSlides: true
       beforeInit: "js/macros.js" 
 --- 
