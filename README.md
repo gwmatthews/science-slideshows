@@ -20,6 +20,6 @@ Created with xaringan.
 
 [8. A Little Logic](https://gwmatthews.github.io/science-slideshows/08-slides.html)
 
-[9. Conditional Reasoning](https://gwmatthews.github.io/science-slideshows/09-slides.html)
+[9. Fallacies and Biases](https://gwmatthews.github.io/science-slideshows/09-slides.html)
 
-[10. Fallacies and Biases](https://gwmatthews.github.io/science-slideshows/10-slides.html)
+[10. Identify the Fallacy](https://gwmatthews.github.io/science-slideshows/10-slides.html)
