@@ -57,6 +57,9 @@ color: var(--text-color-3);
   color: var(--fade-out-color);
 }
 
+
+/* BOXES */
+
 .example {
   padding: 10px 30px;
   border-radius: 10px;
@@ -116,6 +119,18 @@ color: var(--text-color-3);
 
 .notice ul{
   line-height: 1.3;
+}
+
+.centered-box {
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+  border: none;
+}
+
+.centered-box li {
+  margin: 10px;
+  
 }
 
 /* FOR DIALOGUES -- in conjunction with portrait images, see macros.js */

@@ -1,17 +1,40 @@
-layout:true
-class: middle
+class: center middle xlarge
 
+# *Identify the fallacy*
+
+---
+layout: true
+class: xlarge
+
+### *Identify the fallacy*
 ---
 
 .argument[ 
 ### We shouldn't ban the carrying of concealed weapons in public places because the next thing you know we'll be banning hunting rifles too.
 ]
 
+![:vspace 10]
+
+.centered-box[
+1. False Cause
+2. Slippery Slope
+3. Hasty Generalization
+4. Straw Person
+]
 
 ---
 
 .argument[ 
 ### You can't prove that there isn't a God. Therefore God must exist.
+]
+
+![:vspace 10]
+
+.centered-box[
+1. Weak analogy
+2. Cherry Picking
+3. Mere Assertion
+4. Appeal to Ignorance
 ]
 
 ---
@@ -20,12 +43,29 @@ class: middle
 ### I saw a bunch of drunk Buddhists beating up an old man the other day. I had no idea that Buddhism encouraged such behavior, but I guess it does.
 ]
 
+![:vspace 10]
+
+.centered-box[
+1. Hasty Generalization
+2. Ad Hominem (Personal Attack)
+3. Circular Reasoning
+4. Appeal to Consequences
+]
+
 ---
 
 .argument[ 
 ### A study funded by Monsanto corporation claims to show that the weed killer Roundup, which they manufacture, is not toxic to humans. That study can obviously be dismissed as propaganda.
 ]
 
+![:vspace 10]
+
+.centered-box[
+1. Popular Appeal
+2. Appeal to Consequences
+3. False Dilemma
+4. Genetic Fallacy
+]
 
 ---
 
@@ -33,6 +73,14 @@ class: middle
 ### These three prominent engineers believe that 9-11 was the result of a conspiracy, therefore there is a good reason to suspect that it was.
 ]
 
+![:vspace 10]
+
+.centered-box[
+1. Appeal to Ignorance
+2. Popular Appeal
+3. Appeal to Authority
+4. Equivocation
+]
 
 ---
 
@@ -40,6 +88,14 @@ class: middle
 ### Getting rid of privacy and putting in place universal electronic surveillance is only a bad idea if you have something to hide. Since you oppose such surveillance, you clearly have something to hide.
 ]
 
+![:vspace 10]
+
+.centered-box[
+1. False Dilemma
+2. Circular reasoning
+3. Begging the Question
+4. False Cause
+]
 
 ---
 
@@ -47,11 +103,28 @@ class: middle
 ### Diagnoses of brain cancer went up shortly after "The Simpsons" first went on TV. Thus watching the Simpsons must cause brain cancer.
 ]
 
+![:vspace 10]
+
+.centered-box[
+1. False Cause
+2. Slippery Slope
+3. Appeal to Consequences
+4. Red Herring
+]
 
 ---
 
 .argument[ 
 ### Eating dogs is wrong. Why? Because nobody I know does it!
+]
+
+![:vspace 10]
+
+.centered-box[
+1. Red Herring
+2. Popular Appeal
+3. Hasty Generalization
+4. Naturalistic Fallacy
 ]
 
 ---
@@ -60,9 +133,26 @@ class: middle
 ### Ghosts are real, I've seen them with my own eyes!
 ]
 
+![:vspace 10]
+
+.centered-box[
+1. Weak Analogy
+2. Red Herring
+3. Cherry Picking
+4. Begging the Question
+]
 
 ---
 
 .argument[ 
 ### I refuse to take pills produced by pharmaceutical companies in their chemical plants! It is much better to take only all-natural herbal extracts.
+]
+
+![:vspace 10]
+
+.centered-box[
+1. Weak Analogy
+2. Appeal to Ignorance
+3. Naturalistic Fallacy
+4. Appeal to Authority
 ]
