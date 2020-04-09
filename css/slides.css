@@ -493,3 +493,10 @@ img.credits h4 {
   height: 95%;
   left: 2%; top: 0;
 }
+
+.wide-text{
+  width: 130%;
+  padding: 40px 10px 20px 30px;
+  
+  
+}
