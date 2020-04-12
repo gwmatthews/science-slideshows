@@ -1,0 +1,12 @@
+---
+title: "Conspiracy Theories"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "css/fonts.css", "css/vanilla.css", "css/slides.css"]
+    lib_dir: libs
+    nature:
+      sourceUrl: "13-src.Rmd"
+      countIncrementalSlides: false
+      beforeInit: "js/macros.js" 
+--- 

@@ -1,0 +1,176 @@
+class: middle center
+
+### *Conspiracy Theories*
+
+*Too Many Connections*
+
+![:scale 65%, #222;](img/13/conspiracy.jpg)
+
+George Matthews, Plymouth State University
+
+*2020*
+
+---
+layout: true
+
+### *The Puzzle of Conspiracy Theories*
+
+---
+![:scale 70%, #222;](img/13/chapman-2016.jpg)
+
+
+
+- They enjoy widespread and growing support and yet have little evidence in favor of them.
+
+---
+
+![:vspace 10]()
+
+![:scale 80%, #222;](img/13/corona.jpg)
+
+![:vspace 10]()
+
+- They are predictable in their emergence in times of crisis and great social stress.
+
+
+
+---
+
+![:scale 70%, #222;](img/13/chapman-2018.jpg)
+
+- They are individually easy to debunk or disprove, even as they seem impossible to combat on a wider scale.
+
+---
+
+![:scale 70%, #222;](img/13/conspiracy-2.png)
+
+- They are dangerous since they amplify inter-group hostility, encourage violence and subvert efforts to deal with social problems.
+
+
+---
+layout: true
+
+### *Approaches to Conspiracy Thinking*
+
+---
+
+.topcap[1*.* Accept them.]
+
+![:scale 70%, #222;](img/13/jones.jpg)
+
+---
+
+.topcap[2*.* Debunk them one at a time.]
+
+![:scale 70%, #222;](img/13/simpsons.jpg)
+
+---
+
+.topcap[3*.* Accept relativism about them.]
+
+![:scale 70%, #222;](img/13/ufos.jpg)
+
+---
+
+.topcap[4*.* Try to explain them.]
+
+![:scale 70%, #222;](img/13/aliens.jpg)
+
+---
+
+layout: true
+
+### *Elements of Conspiracy Thinking*
+
+---
+
+![:scale 70%, #222;](img/13/mundi.jpg)
+
+.wide-list[
+
+- Search for control and meaning in a world out of control and confusing.
+
+]
+
+---
+
+![:scale 70%, #222;](img/13/soros.jpg)
+
+
+.wide-list[
+
+- Someone is to blame and we can thus do something about our predicament.
+
+]
+
+
+---
+
+![:scale 60%, #222;](img/13/conspiracy-theories-1.jpg)
+
+.wide-list[
+
+- Symbolic connnections, hidden meanings, deep significance of events, invisible agents -- these ideas resonate with magical thinking and come naturally to us.
+
+]
+
+---
+
+![:scale 70%, #222;](img/13/colbert.png)
+
+.wide-list[
+
+- Common narrative: there is a nefarious plot, organized by a secret elite, which most people don't see or suspect, but I have figured it out and now they are trying to kill me.
+
+]
+
+---
+
+layout: false
+
+### *Another Puzzle*
+
+![:scale 85%, #222;](img/13/crime.png)
+
+---
+
+### *The Criminal Element*
+
+![:scale 85%, #222;](img/13/crime-lead.png)
+
+---
+
+![:scale 55%, #222;](img/13/ethylgrannies.jpg)
+
+---
+
+### *Find out more*
+
+![:jump Wikipedia's List of Conspiracy Theories](https://en.wikipedia.org/wiki/List_of_conspiracy_theories)
+
+![:jump Conspiracy Theories Cannot Be Stopped](https://fivethirtyeight.com/features/conspiracy-theories-cant-be-stopped/)
+
+![:jump Conspiracy Theories are Dangerous](https://www.economist.com/open-future/2019/08/12/conspiracy-theories-are-dangerous-heres-how-to-crush-them)
+
+![:jump The Secret History of Lead](https://www.thenation.com/article/archive/secret-history-lead/)
+
+---
+
+class: center credits
+
+.credit-image[
+![:scale 40%, #222;](img/13/apollo.jpg)
+]
+
+#### Credits
+
+*Built with:* 
+
+![:jump Rstudio](https://rstudio.com/products/rstudio/)
+
+![:jump xarignan](https://github.com/yihui/xaringan) html presentation framework 
+
+[download this presentation](./pdf/11-slides.pdf) or [print it](./pdf/11-handout.pdf)
+
+![:jump editorial suggestions and comments](https://github.com/gwmatthews/ethics-slideshows/issues): requires a (free) GitHub account.
+
