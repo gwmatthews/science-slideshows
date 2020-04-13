@@ -1,0 +1,322 @@
+class: middle center
+
+### *Science Denial*
+
+*a case of misplaced skepticism*
+
+![:scale 50%, #222;](img/14/tornado-8.jpg)
+
+George Matthews, Plymouth State University
+
+*2020*
+
+---
+
+![:scale 80%, #222;](img/14/fig07-17.png)
+
+
+---
+
+### *Many Forms of Climate Change Denial*
+
+--
+
+.argument[
+
+1*.* The Earth's climate is not in fact changing and the evidence does not support that it is.
+
+*variation*: Evidence that it is changing is fraudulent.
+]
+
+--
+
+![:vspace 20]()
+
+.argument[
+
+2*.* It is changing but the change is natural and not caused by us.
+
+]
+
+--
+
+![:vspace 20]()
+
+.argument[
+
+3*.* It is caused by us, but it is a bad idea to try to stop it.
+
+*variation*: Maybe it is even a good thing that it is happening!
+
+]
+
+
+---
+
+### *Some questions*
+
+.question[
+
+How can we tell the difference between good and bogus claims to scientific knowledge?
+
+]
+
+--
+
+![:vspace 10]()
+
+.question[
+
+ Does science depend on a single method, and if not does "anything go?"
+ 
+ ]
+
+--
+
+![:vspace 10]()
+
+.question[
+
+ Why should we trust scientific findings and how is this trust different than faith?
+ 
+ ]
+
+---
+
+### *The Hypothetico-Deductive Method*
+
+![:vspace 20]()
+
+.argument[
+
+If this .red[theory] is true, then this .red[consequence] should happen.
+
+The .red[consequence] does happen.
+
+***
+
+Therefore the .red[theory] is true.
+
+]
+
+--
+
+![:colorbox 200px, 450px, 150px, cbox](VALID)
+
+![:colorbox 550px, 450px, 150px, cbox](INVALID)
+
+--
+
+![:vspace 200]()
+
+The fallacy of affirming the consequent.
+
+---
+
+### *Validation?*
+
+![:vspace 20]()
+
+.argument[
+
+If vitamin C cures colds, then you should feel better after taking Vitamin C.
+
+I do feel better after taking Vitamin C.
+
+***
+
+Therefore Vitamin C cures colds.
+
+]
+
+---
+
+### *Validation?*
+
+![:vspace 20]()
+
+.argument[
+
+If climate change is caused by increased greenhouse emissions, then temperatures should rise as emissions rise.
+
+Temperatures do rise as emissions rise.
+
+***
+
+Climate change is caused by increased greenhouse emissions.
+
+]
+
+--
+
+![:vspace 20]()
+
+What about other possible explanations of rising temperatures such as the wobble of the earth, sunspots, etc.?
+
+---
+
+### *A Stronger Argument*
+
+![:vspace 20]()
+
+.argument[
+
+If vitamin C cures colds, then you should feel better after taking Vitamin C, and you shouldn't feel better if you don't take it.
+
+Whoever takes Vitamin C feels better and those who do not take it don't feel better.
+
+***
+
+Therefore Vitamin C cures colds.
+
+]
+
+
+---
+class: middle
+
+![:scale 90%, #222;](img/14/hemp.jpg)
+
+
+---
+
+### *A Better Argument*
+
+![:vspace 20]()
+
+.argument[
+
+If climate change is caused by increased greenhouse gases, then temperature should rise as emissions rise, and fall as emissions fall.
+
+Temperature rises as emissions rise, and falls as emissions fall.
+
+***
+
+Climate change is caused by increased greenhouse gases.
+
+]
+
+--
+
+![:vspace 20]()
+
+This seems promising but how can we lower emissions now to test this hypothesis?
+
+---
+
+### *Build Models*
+
+![:scale 80%, #ccc;](img/14/carbon-cycle-3.png)
+
+---
+
+### *Take account of confounding variables*
+
+![:scale 80%, #ccc;](img/14/CO2-graph-2.jpg)
+
+
+---
+
+### *Establish clear correlations*
+
+![:scale 80%, #ccc;](img/14/2014-temp.png)
+
+
+---
+
+### *Many indicators*
+
+![:vspace 20]()
+
+.argument[
+
+If climate change is occurring we should see .red[many independent indicators of change].
+
+We seem them all.
+
+***
+
+Therefore climate change is occurring.
+
+]
+
+--
+
+![:colorbox 150px, 450px, 150px, cbox](VALID)
+
+![:colorbox 375px, 450px, 150px, cbox](INVALID)
+
+![:colorbox 600px, 450px, 150px, cbox](STRONG)
+
+---
+
+class: middle
+
+![:scale 90%, #ccc;](img/14/ten-indicators-of-global-warming.jpg)
+
+---
+
+class: middle
+
+![:scale 60%, #ccc;](img/14/sea-ice.gif)
+
+---
+
+class: middle
+
+![:scale 90%, #ccc;](img/14/b-a-ice.jpg)
+
+---
+
+### *Is there really debate?*
+
+![:vspace 20]()
+
+.argument[
+
+If there is consensus about human-caused climate change, scientists would all agree.
+
+But they don't all agree.
+
+***
+
+Therefore there is no consensus and the debate is unsettled.
+
+]
+
+![:colorbox 150px, 450px, 150px, cbox](VALID)
+
+![:colorbox 375px, 450px, 150px, cbox](INVALID)
+
+![:colorbox 600px, 450px, 150px, cbox](UNSOUND)
+
+---
+
+### *Find out more*
+
+![:jump The Pillars of Climate Change Denial](https://ncse.ngo/pillars-climate-change-denial)
+
+![:jump NASA: Vital Signs of the Planet](https://climate.nasa.gov/)
+
+![:jump Podcast - Defending Science From Denial](https://www.skeptic.com/science-salon/lee-mcintyre-scientific-attitude-defending-science-from-denial-fraud-pseudoscience/)
+
+---
+
+class: center credits
+
+.credit-image[
+![:scale 60%, #222;](img/14/tornado-5.jpg)
+]
+
+#### Credits
+
+*Built with:* 
+
+![:jump Rstudio](https://rstudio.com/products/rstudio/)
+
+![:jump xarignan](https://github.com/yihui/xaringan) html presentation framework 
+
+[download this presentation](./pdf/11-slides.pdf) or [print it](./pdf/11-handout.pdf)
+
+![:jump editorial suggestions and comments](https://github.com/gwmatthews/ethics-slideshows/issues): requires a (free) GitHub account.
+
