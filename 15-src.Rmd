@@ -1,0 +1,378 @@
+class: middle center
+
+### *Psychology*
+
+*a history in three chapters*
+
+![:scale 50%, #222;](img/15/head-measurement.jpg)
+
+George Matthews, Plymouth State University
+
+*2020*
+
+---
+
+.left-column[
+
+#### 1*.* Behaviorism
+
+#### .fade-out[2*.* Neuroscience]
+
+#### .fade-out[3*.* Cognitive Science]
+
+]
+
+![:vspace 50]()
+
+.right-column[
+
+![:scale 70%, #fff](img/15/skinner-box.jpg)
+
+]
+
+---
+
+.left-column[
+
+#### .fade-out[1*.* Behaviorism]
+
+#### 2*.* Neuroscience
+
+#### .fade-out[3*.* Cognitive Science]
+
+]
+
+![:vspace 50]()
+
+.right-column[
+
+![:scale 70%, #fff](img/15/vesalius-brain.png)
+
+]
+
+---
+
+.left-column[
+
+#### .fade-out[1*.* Behaviorism]
+
+#### .fade-out[2*.* Neuroscience]
+
+#### 3*.* Cognitive Science
+
+]
+
+![:vspace 90]()
+
+.right-column[
+
+![:scale 70%, #fff](img/15/code.jpg)
+
+]
+
+---
+
+### *prehistory*
+
+.left-column[
+
+![:vspace 150]()
+
+![:portrait Rene Descartes, 1596-1650, 80%](img/15/descartes.jpg)
+
+]
+
+.right-column[
+
+.argument[
+
+"I am really distinct from my body and can exist without it."
+
+]
+]
+
+--
+
+.right-list[
+
+![:vspace 40]()
+
+- Descartes gave a philosophical defense of the traditional conception that the mind, or soul, is essentially distinct from the body, otherwise known as  .red[dualism].
+
+]
+
+--
+
+.right-list[
+
+- If science is the study of the physical universe, and the mind is separate from this universe, how can the mind be studied scientifically?
+
+]
+
+---
+
+### *prehistory*
+
+.left-column[
+
+![:vspace 150]()
+
+![:portrait Thomas Hobbes, 1588-1679, 80%](img/15/hobbes.jpg)
+
+]
+
+.right-column[
+
+.argument[
+
+"What is the heart but a spring, and the nerves but so many strings, and the joints but so many wheels, giving motion to the whole body?"
+
+]
+]
+
+--
+
+.right-list[
+
+![:vspace 30]()
+
+- Hobbes suggested a mechanistic theory of mind, but this remained a metaphoric model.
+
+]
+
+--
+
+.right-list[
+
+- How can we study the mind scientifically when it seems to be different than physical phenomena which are accessible to public inspection and objective experimentation?
+
+]
+
+---
+class: middle
+
+![:scale 80%, #fff](img/15/casper.jpg)
+
+---
+
+### *1. Behaviorism*
+
+.left-column[
+
+![:vspace 150]()
+
+![:portrait J.B. Watson, 1878-1958, 80%](img/15/watson.jpg)
+
+]
+
+.right-column[
+
+.argument[
+
+"Psychology as the behaviorist views it is a purely objective experimental branch of natural science. Its theoretical goal is the prediction and control of behavior."
+
+]
+]
+
+--
+
+.right-list[
+
+![:vspace 30]()
+
+- Behaviorism ignores the "inner world" of conscious experience and focuses on what organisms with minds **_do_** in controlled experiments.
+
+]
+
+--
+
+.right-list[
+
+- Watson's vision of a scientific psychology was of a science with all of the predictive power of physics.
+
+]
+
+---
+class: middle
+
+![:scale 80%, #fff](img/15/pavlovs-dog.jpg)
+
+---
+class: middle
+
+![:scale 60%, #fff](img/15/skinner-box.png)
+
+---
+class: center
+
+### *How predictable are people?*
+
+--
+
+![:vspace 50]()
+
+.pull-left[
+
+<div style="float: left;">
+
+![:captionpic As predictable as a clock?, 50%, #fff](img/15/clock.jpg)
+
+</div>
+
+]
+
+--
+
+.pull-right[
+
+<div style="float: right;">
+
+![:captionpic As random as dice?, 50%, #fff](img/15/random.jpg)
+
+</div>
+
+]
+
+--
+
+![:vspace 20]()
+
+![:captionpic As chaotic as a storm?, 23%, #fff](img/15/tornado.jpg)
+
+---
+
+### *2. Neuroscience*
+
+.left-column[
+
+![:vspace 150]()
+
+![:portrait Hippocrates of Cos, 5th Century BCE, 80%](img/15/hippocrates.jpg)
+
+]
+
+.right-column[
+
+.argument[
+
+"From the brain, and from the brain only, arise our pleasures, joys, laughter and jests, as well as our sorrows, pains, griefs and tears. Through it, in particular, we think, see, hear, and distinguish the ugly from the beautiful, the bad from the good, the pleasant from the unpleasant"
+
+]
+]
+
+--
+
+.right-list[
+
+![:vspace 30]()
+
+- The role of the brain in mental life was suspected for thousands of years before a comprehensive theory was developed.
+
+]
+
+--
+
+.right-list[
+
+- What theoretical developments were crucial to the birth of neuroscience?
+
+]
+
+---
+
+class: middle
+
+![:scale 80%, #fff](img/15/neurons.jpg)
+
+---
+
+class: middle
+
+![:scale 80%, #fff](img/15/phineas-gage-1.jpg)
+
+---
+
+class: middle
+
+![:scale 60%, #fff](img/15/nervous-system-evolution.jpg)
+
+---
+class: center
+
+### *Is this all there is to me?*
+
+![:vspace 30]()
+
+![:scale 60%, #fff](img/15/brain-mri.jpg)
+
+---
+
+### *3. Cognitive Science*
+
+.left-column[
+
+![:vspace 150]()
+
+![:portrait Alan Turing, 1912-1954, 80%](img/15/turing.jpg)
+
+]
+
+.right-column[
+
+.argument[
+
+"A computer would deserve to be called intelligent if it could deceive a human into believing that it was human."
+
+]
+]
+
+--
+
+.right-list[
+
+![:vspace 30]()
+
+- Turing laid the foundations for computer science as well the new sciences of the mind collectively called "cognitive science."
+
+]
+
+--
+
+.right-list[
+
+- Cognitive science looks at the ways in which minds process information enabling organisms who have them to adapt to changing circumstances in real time.
+
+]
+
+---
+
+class: middle
+
+![:scale 60%, #fff](img/15/cognitive_science.png)
+
+---
+
+### *Are we nothing but fancy biological machines?*
+
+![:scale 70%, #fff](img/15/cyborg.jpg)
+
+---
+
+class: center credits middle
+
+.credit-image[
+![:scale 60%, #222;](img/15/phrenology.jpg)
+]
+
+#### Credits
+
+*Built with:* 
+
+![:jump Rstudio](https://rstudio.com/products/rstudio/)
+
+![:jump xarignan](https://github.com/yihui/xaringan) html presentation framework 
+
+[download this presentation](./pdf/11-slides.pdf) or [print it](./pdf/11-handout.pdf)
+
+![:jump editorial suggestions and comments](https://github.com/gwmatthews/ethics-slideshows/issues): requires a (free) GitHub account.
+
