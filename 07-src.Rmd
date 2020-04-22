@@ -149,7 +149,7 @@ layout: true
 
 --
 
-- Alessandra Volta creates first battery based on his understanding of why the frog's leg twitched when touch with dissimilar metals.
+- Alessandra Volta creates first battery based on his understanding of why the frog's leg twitched when touched with dissimilar metals.
 
 ---
 
@@ -157,7 +157,7 @@ layout: true
 
 --
 
-- Michael Faraday creates first electric current generator by building a device that moves a conductor through a magnetic field.
+- Michael Faraday creates first electric generator by building a device that moves a conductor through a magnetic field.
 
 ---
 
