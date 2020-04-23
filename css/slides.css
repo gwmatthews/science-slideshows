@@ -147,7 +147,8 @@ color: var(--text-color-3);
  }
 
 .left-blurb p  {
-  background-color: var(--box-color-2);
+  color: var(--main-text-color);
+  background-color: var(--box-bg-color-2);
   display: block;
   margin-top: auto;
   margin-left: 1.5em;
@@ -155,13 +156,14 @@ color: var(--text-color-3);
   border-radius: 20px;
   border: 1px dashed var(--border-color-1);
   position: absolute;
-  bottom: 15px;
-  left: 15px;
+  bottom: 30px;
+  left: 0;
   box-shadow: 1px 2px 4px var(--shadow-color);
 }
 
 .right-blurb {
   position: relative;
+  left: 1.5em;
   border: 0;
   background-image: url("../img/right-arrow.png");
   background-repeat: no-repeat;
@@ -172,7 +174,8 @@ color: var(--text-color-3);
 }
 
 .right-blurb p  {
-  background-color: var(--box-color-2);
+  color: var(--main-text-color);
+  background-color: var(--box-bg-color-2);
   display: block;
   margin-top: auto;
   margin-right: 1.5em;
@@ -180,10 +183,11 @@ color: var(--text-color-3);
   border-radius: 20px;
   border: 1px dashed var(--border-color-1);
   position: absolute;
-  bottom: 15px;
-  right: 15px;
+  bottom: 30px;
+  right: 0;
   box-shadow: 1px 2px 4px var(--shadow-color);
 }
+
 
 /* IMAGES */
 
@@ -372,6 +376,19 @@ img.credits h4 {
   padding: 0;
   margin: 0;
   float: left;
+}
+
+.middlebar {
+  width: 50%;
+  padding: 0;
+  margin: 0;
+  float: left;
+}
+
+.center-column {
+  width: 54%;
+  padding: 0;
+  margin: 0 auto;
 }
 
 /* EVEN THREE COLUMN LAYOUT  */

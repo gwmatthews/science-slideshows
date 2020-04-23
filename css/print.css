@@ -17,7 +17,17 @@
 --border-color-1: #aaa;
 --border-color-2: #aaa;
 --border-color-3: #aaa;
---fade-out-color: #555;
+
+--box-bg-color: #fff;
+--box-bg-color-2: #fff;
+--main-text-color: #222;
+--box-text-color: #000;
+--alert-text-color: #222;
+--title-color: #222;
+--highlight-color: #000;
+--fade-in-color: #111;
+--fade-out-color: #666;
+--hide-color: #fff;
 
 }
 
