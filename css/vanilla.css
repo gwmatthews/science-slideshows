@@ -2,33 +2,32 @@
 
 :root {
 
---bg-color: #222222;
---box-color-1: #eed;
---box-color-2: #fee4d6;
---box-color-3: #fedbdb;
---box-color-4: #efe9cc;
---text-color-1: #002222;
+--bg-color: #222222; /*  slide background    */
+
+--box-bg-color-1: #eed; /*  box backgrounds    */
+--box-bg-color-2: #fee4d6;
+--box-bg-color-3: #fedbdb;
+--box-bg-color-4: #efe9cc;
+
+--title-color: #111; /*  text   */
+--main-text-color: #002222;
 --text-color-2: #cccccc;
 --text-color-3: #ee0066;
 --text-color-4: #888888;
---slide-number: #888888;
---link-color: #f92672;
---shadow-color: #999999;
---border-color-1: #aaaaaa;
---border-color-2: #b21;
---border-color-3: #77d;
---fade-out-color: #666;
-
---box-bg-color: #fae5d3;
---box-bg-color-2: #fee4d6;
---main-text-color: #111;
 --box-text-color: black;
 --alert-text-color: red;
---title-color: #111;
---highlight-color: red;
+--link-color: #f92672;
 --fade-in-color: #333;
 --fade-out-color: #aaa;
 --hide-color: #fef5e7;
+--slide-number: #888888;
+
+--shadow-color: #999999; /*  shadows    */
+
+--border-color-1: #aaaaaa; /*  borders */
+--border-color-2: #b21;
+--border-color-3: #77d;
+
 
 }
 
