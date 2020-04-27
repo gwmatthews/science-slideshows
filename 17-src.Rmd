@@ -1,0 +1,136 @@
+class: middle center
+
+### *Science, Technology and Ethics*
+
+*on knowledge and power*
+
+![:scale 65%, #eee;](img/17/bravo3.jpg)
+
+George Matthews, Plymouth State University
+
+*2020*
+
+---
+
+![:vspace 80]()
+
+.left-column[
+
+![:vspace 20]()
+
+![:portrait Francis Bacon, 1561-1626, 80%](img/17/bacon.jpg)
+
+]
+
+.right-column[
+
+.topcap[
+
+"Knowledge itself is power."
+
+]
+
+![:vspace 20]()
+
+]
+
+--
+
+.right-list[
+
+- Power to predict and control natural forces to ones own and humanity's advantage?
+
+]
+
+--
+
+.right-list[
+ 
+- Power over those who lack knowledge that we have access to?
+
+]
+
+--
+
+.right-list[
+
+- How can we use the power that knowledge offers wisely and ethically?
+
+]
+
+---
+
+### *Example 1: Surveillance*
+
+![:scale 70%, #eee;](img/17/privacy.jpg)
+
+--
+
+.question[
+
+Should I be concerned with being tracked and recorded if I am not doing anything wrong?
+
+]
+
+---
+
+### *Example 2: Facial Recognition Technology*
+
+![:scale 75%, #eee;](img/17/face-recog.jpg)
+
+--
+
+.question[
+
+Do I have a right to obscurity in public places where I do not know anyone personally?
+
+]
+
+---
+
+### *Example 3: Clickbait*
+
+![:scale 60%, #eee;](img/17/clickbait.png)
+
+--
+
+.question[
+
+What are the social and political consequences of automated "content curation"?
+
+]
+
+---
+
+### *Example 4: Military Drones (UAV's)*
+
+![:scale 60%, #eee;](img/17/drone.jpg)
+
+--
+
+.question[
+
+Is it acceptable to deploy drones over countries with whom we are not officially at war and to use them to carry out lethal attacks?
+
+]
+
+---
+
+class: center credits
+
+.credit-image[
+![:scale 60%, #eee;](img/17/apache1.jpg)
+]
+
+#### Credits
+
+*Built with:* 
+
+![:jump Rstudio](https://rstudio.com/products/rstudio/)
+
+![:jump xarignan](https://github.com/yihui/xaringan) html presentation framework 
+
+[download this presentation](./pdf/11-slides.pdf) or [print it](./pdf/11-handout.pdf)
+
+![:jump editorial suggestions and comments](https://github.com/gwmatthews/ethics-slideshows/issues): requires a (free) GitHub account.
+

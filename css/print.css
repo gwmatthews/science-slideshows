@@ -3,12 +3,12 @@
 
 
 :root {
---bg-color: #fff; /*  slide background    */
---box-bg-color: #eee; /*  box backgrounds    */
+--bg-color: #fff; 
+--box-bg-color-1: #eee; 
 --box-bg-color-2: #fff;
 --box-bg-color-3: #eee;
 --box-bg-color-4: #fff;
---title-color: #222; /*  text   */
+--title-color: #222; 
 --main-text-color: #222;  
 --text-color-2: #333;
 --text-color-3: #555;
@@ -20,8 +20,8 @@
 --fade-out-color: #aaa;
 --hide-color: #fff;
 --slide-number-color: #fff;
---shadow-color: #ccc; /*  shadows    */
---border-color-1: #bbb; /*  borders */
+--shadow-color: #ccc; 
+--border-color-1: #bbb; 
 --border-color-2: #bbb;
 --border-color-3: #bbb;
 
