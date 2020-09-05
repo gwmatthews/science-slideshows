@@ -57,27 +57,77 @@ layout: true
 
 --
 
-![:scale 60%, #fff](img/06/dalmatian.jpg)
+![:scale 55%, #fff](img/06/dalmatian.jpg)
+
+--
+
+.wide-list[
+*HINT: Can you see the dog?*
+]
 
 ---
 
-![:scale 60%, #fff](img/06/triangle.png)
+![:scale 50%, #fff](img/06/triangle.png)
+
+--
+
+.wide-list[
+*Is there a white triangle here or not?*
+]
 
 ---
 
-![:scale 60%, #fff](img/06/necker-cube.jpg)
+![:scale 55%, #fff](img/06/necker-cube.jpg)
+
+--
+
+.wide-list[
+*Are you looking up at the bottom of the cube or down at the top?*
+]
 
 ---
 
-![:scale 60%, #fff](img/06/neon-color-circle.jpg)
+![:scale 50%, #fff](img/06/neon-color-circle.jpg)
 
----
+--
 
-![:scale 60%, #fff](img/06/neon-colors.jpg)
+.wide-list[
+*Our visual systems soften the differences between contrasting elements if they seem to evoke a pattern.*
+]
 
 ---
 
 ![:scale 70%, #fff](img/06/black-dots.jpg)
+
+--
+
+.wide-list[
+*Why does the color of the intersections change depending on whether you are looking straight at them or not?*
+]
+
+---
+
+.wide-list[
+- Our minds are "anticipation engines" -- we identify patterns and use them to anticipate what happens next in time, space or action.
+]
+
+--
+
+.wide-list[
+- By default we leap to conclusions only later filtering them through critical thinking.
+]
+
+--
+
+.wide-list[
+- The ease with which we can connect the dots enables us to thrive in complex and novel environments.
+]
+
+--
+
+.wide-list[
+- It also leaves us vulnerable to seeing patterns that aren't really there.
+]
 
 ---
 layout: true
@@ -88,47 +138,114 @@ layout: true
 
 --
 
-![:scale 70%, #fff](img/06/cafe-illusion.jpg)
+![:scale 75%, #fff](img/06/cafe-illusion.jpg)
+
+--
+
+.wide-list[
+*All horizontals are parallel. Check it with  ruler! Why can't we SEE this even though we KNOW it?*
+]
 
 ---
 
-![:scale 60%, #fff](img/06/blue-horizontal-lines.jpg)
+![:scale 50%, #fff](img/06/blue-horizontal-lines.jpg)
+
+--
+
+.wide-list[
+*A more extreme case of how we interpret visual data spatially in response to  small contextual cues.*
+]
 
 ---
 
-![:scale 60%, #fff](img/06/waves-1.jpg)
+![:scale 55%, #fff](img/06/waves-1.jpg)
+
+--
+
+.wide-list[
+*Changing these cues...*
+]
 
 ---
 
-![:scale 60%, #fff](img/06/waves-2.jpg)
+![:scale 55%, #fff](img/06/waves-2.jpg)
+
+
+--
+
+.wide-list[
+*... changes our spatial perception.*
+]
 
 ---
 
 ![:scale 60%, #fff](img/06/3d-painting1-illusion.jpg)
 
+--
+
+.wide-list[
+*Sometimes an illusion depends on...*
+]
+
 ---
 
 ![:scale 60%, #fff](img/06/3d-painting1.jpg)
+
+--
+
+.wide-list[
+*... us occupying one particular perspective.*
+]
 
 ---
 
 ![:scale 60%, #fff](img/06/3d-painting2-illusion.jpg)
 
+--
+
+.wide-list[
+*Only from such a perspective can we see the illusion.*
+]
+
 ---
 
 ![:scale 60%, #fff](img/06/3d-painting2.jpg)
 
+--
+
+.wide-list[
+*It falls apart with a simple change of viewpoint.*
+]
+
 ---
 
 ![:scale 80%, #fff](img/06/odeith-baton-rouge.jpg)
+--
+
+.wide-list[
+*Some artists specialize in tricking our minds into rendering flat images as 3-dimensional objects.*
+]
 
 ---
 
 ![:scale 40%, #fff](img/06/outdoor-shift.jpg)
 
+--
+
+.wide-list[
+*Or creating ambiguous scenes.*
+]
+
+
 ---
 
 ![:video #ccc](Ttd0YjXF0no)
+
+
+.small-text[
+*The Ames room is an illusion relies on our senses having been "tuned up" to expect parallel walls, floors and details in interior spaces.*
+]
+
 
 ---
 layout: true
@@ -141,33 +258,77 @@ layout: true
 
 ![:scale 50%, #fff](img/06/chalice.jpg)
 
+--
+
+.wide-list[
+*We often have choices about which mental model best captures the reality.*
+]
+
 ---
 
 ![:scale 80%, #fff](img/06/duck-rabbit.jpg)
 
+--
+
+.wide-list[
+*We can flip from seeing this as a duck to seeing it as a rabbit at will.*
+]
+
 ---
 
-![:scale 60%, #fff](img/06/cat-mouse.png)
+![:scale 50%, #fff](img/06/cat-mouse.png)
+
+--
+
+.wide-list[
+*Often unconscious "decisions" enable us to structure input as a coherent and meaningful image or scene.*
+]
 
 ---
 
 ![:scale 50%, #fff](img/06/rotating-square.gif)
+--
+
+.wide-list[
+*Context can determine how we perceive motion and change.*
+]
 
 ---
 
 ![:scale 60%, #fff](img/06/rotating-necker-cube.gif)
 
+--
+
+.wide-list[
+*Are we looking down at the top or up at the bottom of tis cube and which way is it rotating anyway?*
+]
+
 ---
 
 ![:scale 80%, #fff](img/06/spinning-dancer.gif)
+--
+
+.wide-list[
+*Subtle visual cues on the side dancers cause the direction of rotation to change.*
+]
 
 ---
 
 ![:scale 60%, #fff](img/06/mask-ver.gif)
+--
+
+.wide-list[
+*Since we never see behind anybody else's face we can't see the back of the mask as hollow. Our brains compensate by switching direction of apparent motion.*
+]
 
 ---
 
-![:scale 60%, #fff](img/06/box.gif)
+![:scale 50%, #fff](img/06/box.gif)
+--
+
+.wide-list[
+*When exactly do figure and ground reverse?*
+]
 
 ---
 layout: true
@@ -179,18 +340,38 @@ layout: true
 --
 
 ![:scale 60%, #fff](img/06/head-move.jpg)
+--
+
+.wide-list[
+*Focus on the dot in the middle and move year head back and forth. What do you notice?*
+]
 
 ---
 
 ![:scale 80%, #fff](img/06/cubes.jpg)
+--
+
+.wide-list[
+*Some static images suggest motion with patterns of distortion and displacement.*
+]
 
 ---
 
 ![:scale 80%, #fff](img/06/circles.jpg)
+--
+
+.wide-list[
+*When our eyes see motion but our bodies register stillness we can feel ill....*
+]
 
 ---
 
 ![:scale 70%, #fff](img/06/spirals.jpg)
+--
+
+.wide-list[
+*... This is because we evolved to associate this mismatch with poisoning, which often results in perceptual/motor disconnects. Consider the effects of alcohol.*
+]
 
 ---
 layout: true
@@ -201,25 +382,55 @@ layout: true
 
 --
 
-![:scale 60%, #fff](img/06/rubix.jpg)
+![:scale 45%, #fff](img/06/rubix.jpg)
+--
+
+.wide-list[
+*Are the center squares on the faces in the light and the shadow different colors...*
+]
 
 ---
 
-![:scale 60%, #fff](img/06/rubix-masked.jpg)
+![:scale 45%, #fff](img/06/rubix-masked.jpg)
+
+.wide-list[
+*...or the same color?*
+]
 
 ---
 
-![:scale 45%, #fff](img/06/girl-afterimage.jpg)
+![:scale 35%, #fff](img/06/girl-afterimage.jpg)
+--
+
+.wide-list[
+*Stare at the colored dots on her nose for 30 seconds then go to the next slide while holding your eyes still.*
+]
 
 ---
+
+--
+
+.wide-list[
+*What did you just see?*
+]
 
 ---
 
 ![:scale 50%, #fff](img/06/pinkdots.gif)
+--
+
+.wide-list[
+*Image and after-image are opposite colors which cancel each other out. What happens when you fix your gaze on the plus sign in the middle?*
+]
 
 ---
 
-![:scale 50%, #fff](img/06/dress.png)
+![:scale 35%, #fff](img/06/dress.png)
+--
+
+.wide-list[
+*We wouldn't be done  here without "The Dress That Broke The Internet" in 2017. It is of course colored white and gold.*
+]
 
 ---
 
@@ -227,9 +438,9 @@ layout: false
 
 ## find out more
 
-![:jump Perception and Perceptual Illusions](https://www.psychologytoday.com/us/blog/theory-knowledge/201305/perception-and-perceptual-illusions)
+- ![:jump Perception and Perceptual Illusions](https://www.psychologytoday.com/us/blog/theory-knowledge/201305/perception-and-perceptual-illusions): explores some of the mechanisms behind the scenes.
 
-![:jump 136 Optical Illusion](https://michaelbach.de/ot/)
+- ![:jump 136 Optical Illusions](https://michaelbach.de/ot/): lots of examples and explanations of the causal mechanisms.
 ---
 class: middle credits center
 
